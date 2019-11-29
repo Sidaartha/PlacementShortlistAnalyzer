@@ -3,9 +3,18 @@ Extract rollno from PDFs to display stats.
 
 ## Getting Started
 
-Activate virtual environment.
+#### Activate virtual environment.
 ```
-. venv/bin/activate.
+. venv/bin/activate
+```
+
+#### Run command.
+```
+python main.py --file <file_name>
+```
+Example : 
+```
+python main.py --file test.pdf
 ```
 
 ## Output
@@ -15,7 +24,7 @@ Activate virtual environment.
   ![image](/README/output_terminal.png)
 
 ```
-Note : Make sure to enter your watch roll numbers to friends.txt.
+Note : Make sure to enter your watch roll numbers to "friends.txt".
 ```
 ### Visual output
 
