@@ -57,14 +57,17 @@ class Analyzer(object):
     def get_final_list(self):
         final_list = []
         for roll in self._roll_list:
-            roll_info = self._roll_map[roll]
-            final_list.append({
-            'roll_no': roll,
-            'sex': roll_info['sex'],
-            'name': roll_info['name'],
-            'cgpa': roll_info['cgpa'],
-            'hall': roll_info['hall']
-            })
+            try:
+                roll_info = self._roll_map[roll]
+                final_list.append({
+                'roll_no': roll,
+                'sex': roll_info['sex'],
+                'name': roll_info['name'],
+                'cgpa': roll_info['cgpa'],
+                'hall': roll_info['hall']
+                })
+            except:
+                pass
         return final_list
 
     def get_statistics(self):
