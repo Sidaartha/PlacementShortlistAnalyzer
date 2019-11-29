@@ -1,8 +1,8 @@
-import sys
 import pandas as pd
 from tabula import read_pdf
 from collections import Counter
 from prettytable import PrettyTable
+from argparse import ArgumentParser
 
 import matplotlib
 matplotlib.use('TkAgg')
@@ -29,33 +29,62 @@ class Processer(object):
 
     def get_roll_list(self):
         roll_list = []
-        json = read_pdf(self._result, output_format='json')
-        json = json[0]
-        data = json['data']
-        for row in data:
-            for col in row:
-                roll_list.append(col['text'])
+        json_list = read_pdf(result, multiple_tables=False, output_format='json', pages="all")
+        for json in json_list:
+            data = json['data']
+            for row in data:
+                for col in row:
+                    if col['text'] != '':
+                        roll_list.append(col['text'])
         return roll_list
         
 class Analyzer(object):
     """docstring for Analyzer"""
-    def __init__(self, roll_map, roll_list, year):
+    def __init__(self, roll_map, roll_list, year, friends):
         super(Analyzer, self).__init__()
         self._roll_map = roll_map
         self._roll_list = roll_list
         self._year = year
-        final_list_df = pd.DataFrame(self.get_final_list())
+        self._friends = friends
+        self._final_rolls, self._missing_rolls = self.get_final_list()
+        final_list_df = pd.DataFrame(self._final_rolls)
         final_list_df['cgpa'] = pd.to_numeric(final_list_df['cgpa'])
         self._final_list = final_list_df
+        valid_rolls = self.validate_rolls()
+        friends_list = self.get_friends()
 
-        print("\nTotal number of students : ", final_list_df.shape[0])
+        print("\nTotal number of students : ", final_list_df.shape[0]+len(valid_rolls))
+        print("Missing students : ", len(valid_rolls))
+        print(valid_rolls)
         print("\n")
         with pd.option_context('display.max_rows', None, 'display.max_columns', None):
             print(final_list_df.to_string(index=False))
         print("\n")
 
+    def get_friends(self):
+        friends_list = []
+        for roll in self._friends:
+            try:
+                if roll in self._roll_list:
+                    friends_list.append([roll, self._roll_map[roll]['name']])
+            except:
+                pass
+        return friends_list
+
+    def validate_rolls(self):
+        valid_rolls = []
+        for roll in self._missing_rolls:
+            if len(roll) != 9:
+                pass
+            elif int(roll[:2]) >= self._year:
+                pass
+            else:
+                valid_rolls.append(roll)
+        return valid_rolls
+
     def get_final_list(self):
         final_list = []
+        missing_rolls = []
         for roll in self._roll_list:
             try:
                 roll_info = self._roll_map[roll]
@@ -67,8 +96,8 @@ class Analyzer(object):
                 'hall': roll_info['hall']
                 })
             except:
-                pass
-        return final_list
+                missing_rolls.append(roll)
+        return final_list, missing_rolls
 
     def get_statistics(self):
         statistics = {}
@@ -94,16 +123,27 @@ class Analyzer(object):
         return statistics
 
 
-students = pd.read_csv('students.csv', names=['roll_no', 'sex', 'name', 'cgpa', 'hall'])
-result = sys.argv[1]
-placements_year = 19
+argparser = ArgumentParser()
+argparser.add_argument("--file", type=str, default='test.pdf')
+argparser.add_argument("--friends", type=str, default='friends.txt')
+argparser.add_argument("--year", type=int, default=19)
+args = argparser.parse_args()
 
-processer = Processer(students=students, result=result)
+result = args.file
+friends = args.friends
+placements_year = args.year
+
+students_df = pd.read_csv('students.csv', names=['roll_no', 'sex', 'name', 'cgpa', 'hall'])
+friends_df = pd.read_csv(friends, header=None)
+friends_list = list(friends_df[0].values)
+
+processer = Processer(students=students_df, result=result)
 roll_map = processer.create_roll_map()
 roll_list = processer.get_roll_list()
 
-analyzer = Analyzer(roll_map=roll_map, roll_list=roll_list, year=placements_year)
+analyzer = Analyzer(roll_map=roll_map, roll_list=roll_list, year=placements_year, friends=friends_list)
 statistics = analyzer.get_statistics()
+friends = analyzer.get_friends()
 
 print("----- STATISTICS -----\n")
 table1 = PrettyTable()
@@ -142,6 +182,13 @@ for key in statistics['sex_list'].keys():
     value = statistics['sex_list'][key]
     table3.add_row([key, value, round(float(value)/sex_total*100, 1)])
 print(table3)
+
+if len(friends)!=0 :
+    print("\nFriends in the list : \n")
+    for friend in friends:
+        print(friend[0], friend[1])
+else:
+    print("\nNo friends in the list! \n")
 
 # df=pd.DataFrame([[1, 2], [3, 4], [4, 3], [2, 3]])
 # fig = plt.figure(figsize=(14,8))
