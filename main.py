@@ -50,12 +50,12 @@ class Analyzer(object):
         final_list_df = pd.DataFrame(self._final_rolls)
         final_list_df['cgpa'] = pd.to_numeric(final_list_df['cgpa'])
         self._final_list = final_list_df
-        valid_rolls = self.validate_rolls()
+        self._valid_rolls = self.validate_rolls()
         friends_list = self.get_friends()
 
-        print("\nTotal number of students : ", final_list_df.shape[0]+len(valid_rolls))
-        print("Missing students : ", len(valid_rolls))
-        print(valid_rolls)
+        print("\nTotal number of students : ", final_list_df.shape[0]+len(self._valid_rolls))
+        print("Missing students : ", len(self._valid_rolls))
+        print(self._valid_rolls)
         print("\n")
         with pd.option_context('display.max_rows', None, 'display.max_columns', None):
             print(final_list_df.to_string(index=False))
@@ -104,7 +104,8 @@ class Analyzer(object):
         statistics['cgpa_max'] = self._final_list['cgpa'].max()
         statistics['cgpa_min'] = self._final_list['cgpa'].min()
         statistics['cgpa_avg'] = self._final_list['cgpa'].mean()
-        statistics['batch_list'] = dict(Counter([self._year-int(roll[:2]) for roll in self._final_list['roll_no']]))
+        statistics['batch_list'] = dict(Counter([self._year-int(roll[:2]) for roll in list(self._final_list['roll_no'])+self._valid_rolls]))
+
         try:
             statistics['batch_list']['btech'] = statistics['batch_list'].pop(3)
         except:
@@ -189,10 +190,41 @@ if len(friends)!=0 :
         print(friend[0], friend[1])
 else:
     print("\nNo friends in the list! \n")
+print("\n")
 
-# df=pd.DataFrame([[1, 2], [3, 4], [4, 3], [2, 3]])
-# fig = plt.figure(figsize=(14,8))
-# for i in df.columns:
-#     ax=plt.subplot(2,2,i+1) 
-#     df[[i]].plot(ax=ax)
-# plt.show()
+
+fig = plt.figure(figsize=(56,32))
+
+ax=plt.subplot(2,2,1) 
+labels = ['Male ('+str(statistics['sex_list']['M'])+')', 'Female ('+str(statistics['sex_list']['F'])+')']
+sizes = [statistics['sex_list']['M'], statistics['sex_list']['F']]
+ax.pie(sizes, labels=labels, autopct='%1.1f%%', colors=['#ff580f', '#ff9c59', '#ffc99d'], shadow=False, startangle=90)
+ax.axis('equal')
+
+ax=plt.subplot(2,2,2) 
+labels = ['B.Tech ('+str(statistics['batch_list']['btech'])+')', 'Dual ('+str(statistics['batch_list']['dual'])+')', 'M.Tech ('+str(statistics['batch_list']['mtech'])+')']
+sizes = [statistics['batch_list']['btech'], statistics['batch_list']['dual'], statistics['batch_list']['mtech']]
+ax.pie(sizes, labels=labels, autopct='%1.1f%%', colors=['#ff580f', '#ff9c59', '#ffc99d'], shadow=False, startangle=90)
+ax.axis('equal')
+
+ax=plt.subplot(2,2,3) 
+labels = list(statistics['dep_list'].keys())
+sizes = [statistics['dep_list'][key] for key in statistics['dep_list'].keys()]
+ax.bar(labels, sizes, color='#ff7e26')
+for index, data in enumerate(sizes):
+    ax.text(x=index, y=data+max(sizes)*0.02, s=data, horizontalalignment='center', fontdict=dict(fontsize=9))
+ax.tick_params(axis='both', which='major', colors='k', labelsize=8)
+ax.set_ylim([0, max(sizes)*1.1])
+ax.yaxis.set_visible(False)
+
+ax=plt.subplot(2,2,4) 
+labels = list(statistics['hall_list'].keys())
+sizes = [statistics['hall_list'][key] for key in statistics['hall_list'].keys()]
+ax.bar(labels, sizes, color='#ff7e26')
+for index, data in enumerate(sizes):
+    ax.text(x=index, y=data+max(sizes)*0.02, s=data, horizontalalignment='center', fontdict=dict(fontsize=9))
+ax.tick_params(axis='both', which='major', colors='k', labelsize=8)
+ax.set_ylim([0, max(sizes)*1.1])
+ax.yaxis.set_visible(False)
+
+plt.show()
