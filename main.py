@@ -1,9 +1,13 @@
 import sys
-import math
 import pandas as pd
 from tabula import read_pdf
 from collections import Counter
+from prettytable import PrettyTable
 
+import matplotlib
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
+plt.style.use('ggplot')
 
 class Processer(object):
     """docstring for Processer"""
@@ -43,6 +47,12 @@ class Analyzer(object):
         final_list_df = pd.DataFrame(self.get_final_list())
         final_list_df['cgpa'] = pd.to_numeric(final_list_df['cgpa'])
         self._final_list = final_list_df
+
+        print("\nTotal number of students : ", final_list_df.shape[0])
+        print("\n")
+        with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+            print(final_list_df.to_string(index=False))
+        print("\n")
 
     def get_final_list(self):
         final_list = []
@@ -91,3 +101,48 @@ roll_list = processer.get_roll_list()
 
 analyzer = Analyzer(roll_map=roll_map, roll_list=roll_list, year=placements_year)
 statistics = analyzer.get_statistics()
+
+print("----- STATISTICS -----\n")
+table1 = PrettyTable()
+table1.field_names = ["Metrics", "Values"]
+table1.add_row(["Max CGPA", round(statistics['cgpa_max'], 2)])
+table1.add_row(["Min CGPA", round(statistics['cgpa_min'], 2)])
+table1.add_row(["Avg CGPA", round(statistics['cgpa_avg'], 2)])
+table1.add_row(["B.Tech", statistics['batch_list']['btech']])
+table1.add_row(["Dual", statistics['batch_list']['dual']])
+table1.add_row(["M.Tech", statistics['batch_list']['mtech']])
+print(table1)
+
+print("\n---- DEPARTMENTS ----\n")
+table2 = PrettyTable()
+table2.field_names = ["Department", "Numbers", "Percent"]
+dep_total = sum(list(statistics['dep_list'].values()))
+for key in statistics['dep_list'].keys():
+    value = statistics['dep_list'][key]
+    table2.add_row([key, value, round(float(value)/dep_total*100, 1)])
+print(table2)
+
+print("\n------- HALL -------\n")
+table3 = PrettyTable()
+table3.field_names = ["Hall", "Numbers", "Percent"]
+hall_total = sum(list(statistics['hall_list'].values()))
+for key in statistics['hall_list'].keys():
+    value = statistics['hall_list'][key]
+    table3.add_row([key, value, round(float(value)/hall_total*100, 1)])
+print(table3)
+
+print("\n------- GENDER -------\n")
+table3 = PrettyTable()
+table3.field_names = ["SEX", "Numbers", "Percent"]
+sex_total = sum(list(statistics['sex_list'].values()))
+for key in statistics['sex_list'].keys():
+    value = statistics['sex_list'][key]
+    table3.add_row([key, value, round(float(value)/sex_total*100, 1)])
+print(table3)
+
+# df=pd.DataFrame([[1, 2], [3, 4], [4, 3], [2, 3]])
+# fig = plt.figure(figsize=(14,8))
+# for i in df.columns:
+#     ax=plt.subplot(2,2,i+1) 
+#     df[[i]].plot(ax=ax)
+# plt.show()
