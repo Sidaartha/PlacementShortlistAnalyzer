@@ -110,14 +110,17 @@ class Analyzer(object):
         except:
             statistics['batch_list']['btech'] = 0
         try:
-            statistics['batch_list']['dual'] = statistics['batch_list'].pop(4)
+            statistics['batch_list']['dual'] = 0
+            for key in statistics['batch_list'].keys():
+                if str(key).isdigit() and key >= 4: 
+                    statistics['batch_list']['dual'] += statistics['batch_list'][key]
         except:
             statistics['batch_list']['dual'] = 0
         try:
             statistics['batch_list']['mtech'] = statistics['batch_list'].pop(1)
         except:
             statistics['batch_list']['mtech'] = 0
-        statistics['dep_list'] = dict(Counter([roll[2:4] for roll in self._final_list['roll_no']]))
+        statistics['dep_list'] = dict(Counter([roll[2:4] for roll in list(self._final_list['roll_no'])+self._valid_rolls]))
         statistics['hall_list'] = dict(Counter(list(self._final_list['hall'])))
         try:
             del statistics['hall_list']['Na']
