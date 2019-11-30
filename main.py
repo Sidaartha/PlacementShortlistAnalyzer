@@ -76,10 +76,9 @@ class Analyzer(object):
         for roll in self._missing_rolls:
             if len(roll) != 9:
                 pass
-            elif int(roll[:2]) >= self._year:
-                pass
-            else:
-                valid_rolls.append(roll)
+            elif roll[:2].isdigit():
+                if int(roll[:2]) >= self._year:
+                    valid_rolls.append(roll)
         return valid_rolls
 
     def get_final_list(self):
