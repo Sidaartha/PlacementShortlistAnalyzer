@@ -176,13 +176,13 @@ for key in statistics['hall_list'].keys():
 print(table3)
 
 print("\n------- GENDER -------\n")
-table3 = PrettyTable()
-table3.field_names = ["SEX", "Numbers", "Percent"]
+table4 = PrettyTable()
+table4.field_names = ["SEX", "Numbers", "Percent"]
 sex_total = sum(list(statistics['sex_list'].values()))
 for key in statistics['sex_list'].keys():
     value = statistics['sex_list'][key]
-    table3.add_row([key, value, round(float(value)/sex_total*100, 1)])
-print(table3)
+    table4.add_row([key, value, round(float(value)/sex_total*100, 1)])
+print(table4)
 
 if len(friends)!=0 :
     print("\nFriends in the list : \n")
