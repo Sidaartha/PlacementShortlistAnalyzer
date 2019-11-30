@@ -119,6 +119,10 @@ class Analyzer(object):
             statistics['batch_list']['mtech'] = 0
         statistics['dep_list'] = dict(Counter([roll[2:4] for roll in self._final_list['roll_no']]))
         statistics['hall_list'] = dict(Counter(list(self._final_list['hall'])))
+        try:
+            del statistics['hall_list']['Na']
+        except:
+            pass
         statistics['sex_list'] = dict(Counter(list(self._final_list['sex'])))
         try:
             statistics['sex_list']['M']
