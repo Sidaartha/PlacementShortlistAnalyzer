@@ -1,4 +1,1737 @@
 roll_no,sex,name,cgpa,hall
+14AE10001,M,Sumit Sarkar,,MSH
+14AE10002,M,Abhishek Sinha,,RPH
+14AE10003,M,Ankit Karwasara,,VSH
+14AE10004,M,Ayan Bag,,MSH
+14AE10005,M,Ayush Kanwar,,RKH
+14AE10006,M,B K Vibhava,,NHR
+14AE10007,M,Baru Ravi Varma,,MSH
+14AE10008,M,Debashish Jena,,RPH
+14AE10009,M,Golthy Sai Kiran,,RPH
+14AE10010,M,Gourav Tayal,,PAT
+14AE10011,M,Gurram Naveen Babu,,AZD
+14AE10013,M,Janga Limba Raj,,AZD
+14AE10014,M,Kacho Mohammad Sohrab Khan,,NHR
+14AE10015,F,Kale Prutha Chandrashekhar,,SN/IG
+14AE10016,M,Kangle Sanket Milind,,VSH
+14AE10017,M,Kondala Prajwal,,RPH
+14AE10018,M,Kumar Sparsh,,RPH
+14AE10019,M,Kunal Jain,,RPH
+14AE10020,M,Kuppam Veera Venkata Sai Harish,,NHR
+14AE10021,M,Manikandan R,,LBS
+14AE10023,M,Pande Shantanu Rajendra,,AZD
+14AE10024,M,Pandya Yajat Vedant,,MSH
+14AE10025,M,Robin Singh Chauhan,,AZD
+14AE10026,M,Rustagi Pulkit Devinder,,RPH
+14AE10027,M,Shubham Goyal,,NHR
+14AE10028,M,Sourabh Sahoo,,RKH
+14AE10030,M,Suraj Singh,,LLR
+14AE10031,M,Surendra Puri Goswami,,RPH
+14AE10032,M,Tinku,,RPH
+14AE10034,M,Y G Sreevanshu,,PAT
+14AE30001,M,Aayushman Sharma,,NHR
+14AE30002,M,Adapa Venkata Sai Chaitanya,,HJB
+14AE30003,M,Ande Chandra Kanth,,LBS
+14AE30004,M,Aranya Dan,,RPH
+14AE30005,M,Arun Kumar Suthar,,RPH
+14AE30006,M,Bibhash Chandra Mitra,,LLR
+14AE30007,M,Chavan Rushikesh Santosh,,RKH
+14AE30008,M,Hitesh Saini,,RPH
+14AE30009,M,K Anirudh,,HJB
+14AE30010,M,Kamble Toshant,,RKH
+14AE30011,M,Kappala Madhav,,LBS
+14AE30012,M,Pratik Maheshwar Sahare,,RPH
+14AE30013,F,Richa Sri,,SN/IG
+14AE30014,M,Rohit Saboo,,LLR
+14AE30015,M,Sarpate Atul Dileep,,AZD
+14AE30016,M,Shambhav Shandilya,,AZD
+14AE30017,M,Shubham Jena,,RKH
+14AE30018,M,Vadlamani Phani Kiran,,RPH
+14AE30019,M,Vivek Singh Kushwaha,,AZD
+14AE91R01,M,Praveen Shakya,,BRH
+14AE91R02,M,D. Chaitanya Kumar Rao,,BRH
+14AE91R03,M,Hari Om Verma,,BRH
+14AE91R04,M,Syed Alay Hashim,,BRH
+14AE91S01,M,Raj Kiran Grandhi,,BRH
+14AE91S02,M,Abhay Kumar Sharma,,BRH
+14AE92R02,M,Sudipta Ray,,BRH
+14AG10001,M,Aashirwad Khaitan,,NHR
+14AG10003,M,Amit Patidar,,LBS
+14AG10005,M,Anurag Shankhwar,,RKH
+14AG10007,M,Bhanu Goyal,,AZD
+14AG10009,M,Dharavath Vinod Kumar,,AZD
+14AG10010,M,Dibakar Bala,,RKH
+14AG10011,M,Imtiyaz Hassan,,NHR
+14AG10013,M,John Daniel,,RKH
+14AG10014,M,Juvvadi Tanish,,RPH
+14AG10015,F,Kavali S Apoorva,,MTH
+14AG10017,M,Lokesh Singh,,RKH
+14AG10018,M,Manoj Kumar,,LLR
+14AG10019,M,Nihar Gupta,,LLR
+14AG10020,M,Prem Shankar,,AZD
+14AG10021,M,Pydi Pavan Kalyan,,RKH
+14AG10022,M,Reddi Lokeswara Rao,,MSH
+14AG10024,M,Saarth Marwaha,,RPH
+14AG10025,M,Satyam Neelmani,,VSH
+14AG10026,M,Sharanjeet Singh,,NHR
+14AG10027,M,Sonu  Kumar,,AZD
+14AG10029,M,Subhajit Biswas,,RPH
+14AG10032,M,Sushant Suman,,VSH
+14AG10033,F,V Savita,,MTH
+14AG30002,M,Anindra Kumar,,AZD
+14AG30003,M,Ankur Ankit,,RPH
+14AG30004,M,Arvind Kumar Gautam,,MSH
+14AG30005,F,Astha Madhur,,SN/IG
+14AG30006,F,Astha Pandey,,MTH
+14AG30008,F,Bharti Sharma,,SN/IG
+14AG30010,M,Jaju Runal Govardhan,,LLR
+14AG30011,M,Keiichiro Shimonishi,,RPH
+14AG30014,F,M Kavya,,MTH
+14AG30016,M,Pradeep,,MSH
+14AG30017,M,Punit Kumar,,RKH
+14AG30018,M,Pyla Sai Vinay,,RPH
+14AG30021,M,Rohit Kumar,,AZD
+14AG30022,M,Roshan Sharma,,AZD
+14AG30025,M,Shubham Sonu,,AZD
+14AG30026,M,Somnath Borah,,HJB
+14AG30027,M,Somveer,,PAT
+14AG30028,M,Sri Chandra Duddu,,RKH
+14AG30033,M,Vangapandu Parthasaradhi,,MSH
+14AG30034,M,Vipul Dinesh Modak,,RPH
+14AG3FP04,M,Jakhete Kaushal Manish,,RPH
+14AG3FP05,M,Abhishek Siwach,,LLR
+14AG3FP10,M,Susmit Roy,,RKH
+14AG61R01,M,Farid Uddin Sk,,MMH
+14AG61R01,M,Farid Uddin Sk,,MMH
+14AG65R05,M,Arijit Kumar Bhar,,BRH
+14AG90J02,M,Sunil Manohar Behera,,BRH
+14AG90J03,M,Swarnendu Saha,,BRH
+14AG90J04,M,Bhupendra M Ghodki,,BRH
+14AG90J06,F,Swati Hazra,,RLB
+14AG90J06,F,Swati Hazra,,RLB
+14AG91F01,M,Sashi Sonkar,,BRH
+14AG91F02,M,Nilesh Sakre,,BRH
+14AG91R02,M,Amit Biswas,,BRH
+14AG91R03,M,Naseeb Singh,,BRH
+14AG91R06,M,Showkat Rasool,,BRH
+14AG91R09,M,Brajesh Kumar Panda,,BRH
+14AG91R10,M,Subhajit Roy,,BRH
+14AG91R11,F,Jhansi Narmada Reddy Kotamreddy,,RLB
+14AG91R11,F,Jhansi Narmada Reddy Kotamreddy,,RLB
+14AG91R13,M,Niraj Kumar,,BRH
+14AG91S01,M,Kalikrishna  Hazra,,BRH
+14AG91S02,M,P K Retheesh,,BRH
+14AG92F01,M,Nithya N Kutty,,BRH
+14AG92F02,M,Pramod Kumar Prabhakar,,BRH
+14AG92R01,M,Sanjeev Kumar,,BRH
+14AG92R02,M,Manish Patel,,BRH
+14AG92R03,M,Pradeep Kumar Rout,,BRH
+14AG92R05,M,Ravindra Singh,,BRH
+14AG92R06,M,Ravula Sudharshan Reddy,,BRH
+14AG92R07,M,Gopal Carpenter,,BRH
+14AG92R08,M,Chaitali Sarkar,,BRH
+14AG92R09,M,Jagan Karthik  S,,BRH
+14AG92R10,M,Naveen Kumar,,BRH
+14AG92R11,M,Akanksha Rastogi,,BRH
+14AR10001,M,Abhigyan Shivam,,LLR
+14AR10002,M,Abhinav Kumar Gupta,,RKH
+14AR10003,M,Aditya Agarwal,,LLR
+14AR10004,M,Ahmed Meeran,,LBS
+14AR10005,M,Ankit Kumar Saini,,RKH
+14AR10006,M,Anubhab Gobinda Borah,,LLR
+14AR10008,M,Ashish Anand Keshri,,AZD
+14AR10009,M,Ashutosh Sushil Sarda,,RPH
+14AR10010,F,Bathula Bhandhavi,,MTH
+14AR10011,M,Bhimanyu Dassani,,RPH
+14AR10012,M,Devanshu Bhardwaj,,LLR
+14AR10013,M,Ganapavarapu Purna V Abhishek,,RPH
+14AR10014,M,Gujjarlapudi Sai Venkata Hima Vamsi,,RPH
+14AR10015,M,Hitesh Kumar Vyas,,LLR
+14AR10016,M,Kavish Jhaveri,,AZD
+14AR10017,M,Kedar Prasad,,RKH
+14AR10018,F,Kosaraju Akhila,,MTH
+14AR10019,M,Manish Kumar,,RKH
+14AR10020,F,Palavajjhala  Aiswarya,,MTH
+14AR10021,M,Perisetla Krishna Vamsiteja,,RKH
+14AR10022,M,Prajjwal Agrawal,,RPH
+14AR10023,M,Prakhar Singh,,RKH
+14AR10024,M,Raghav.S,,LBS
+14AR10025,M,Raja Singhai,,RPH
+14AR10026,M,Rajat Choudhary,,RPH
+14AR10027,M,Sanke Vikrant Malyadri,,RKH
+14AR10029,M,Shetty Kaushal Naveen,,AZD
+14AR10030,M,Shivam Kumar,,RKH
+14AR10031,M,Siddharth K Menon,,RKH
+14AR10032,F,Simran Kaur,,MTH
+14AR10033,M,Soham Ghosh,,NHR
+14AR10034,M,Soumya Sourabh Narayan,,RKH
+14AR10035,F,Surange Kshitija Vivek,,SN/IG
+14AR10036,M,Sushant Mishra,,LLR
+14AR10037,M,Tejas Mahajan,,AZD
+14AR10038,M,Utsav Mishra,,RPH
+14AR91Q01,F,Shyni Kallara Colony,,RLB
+14AR91Q01,F,Shyni Kallara Colony,,RLB
+14AR91R05,M,Deepanjan Saha,,BRH
+14AR91R06,M,Arpan Paul,,BRH
+14AR92R01,F,Tiyali Bose,,RLB
+14AR92R01,F,Tiyali Bose,,RLB
+14AR92R03,M,Vidhu Pandey,,BRH
+14AT91P01,M,Muneshwar,,BRH
+14AT91R01,M,Shashaank M A,,BRH
+14AT91R02,M,Saumyadwip Bandyopadhyay,,BRH
+14AT91R03,M,Sainul Islam Ansary,,BRH
+14AT91R05,M,Kalyan Jyoti Sarkar,,BCR
+14AT91R06,M,Jit Mukherjee,,BRH
+14AT91R07,M,Arijit Sarkar,,BRH
+14AT91R09,M,Vaibhav Singh Lodhi,,BRH
+14AT91R10,M,Arindam Roy,,BRH
+14AT91R11,M,Debarghya China,,BRH
+14AT91R12,M,Anupam Banerjee,,BRH
+14AT91R13,F,Anupama Deo,,RLB
+14AT91R13,F,Anupama Deo,,RLB
+14AT91R14,M,Abir Dutta,,BRH
+14AT91R16,M,Ashwani Sharan Tripathi,,BRH
+14AT91R17,M,Pradeep R,,BRH
+14AT91R18,M,Tanumay Mandal,,BRH
+14AT91R19,F,Tandra Mohanta,,RLB
+14AT91R19,F,Tandra Mohanta,,RLB
+14AT91R21,M,Shubhobrata Bhattacharya,,BRH
+14AT91R22,M,Laxmi Kant Tiwari,,BRH
+14AT92R01,M,Debabrata Dutta,,BRH
+14AT92R02,M,Supriyo Chakraborty,,BRH
+14AT92R04,M,Jaydeep Das,,BRH
+14AT92R05,M,Saikat Sahoo,,BRH
+14AT92R06,M,Snehasish Sarkar,,BRH
+14AT92R08,M,Biswabandhu Jana,,BRH
+14AT92S01,M,Jhon Paul,,BRH
+14AT92S02,M,Pralay Mandal,,BRH
+14BM91F01,M,Amit Shankar,,BRH
+14BM91F02,M,J Uma Maheswara Rao,,BRH
+14BM91R01,M,Sujit Kumar Ray,,BRH
+14BM91R02,M,Gobinda Roy,,BRH
+14BM91R04,M,Sourabh Arora,,BRH
+14BM91R05,M,Jyoti Ranjana,,BRH
+14BM91R06,M,Aritra Pan,,BRH
+14BM91R07,M,Rohit Titiyal,,BRH
+14BM91R08,M,Saurav Dash,,BRH
+14BM92F01,M,Amit Kumar Bardhan,,BRH
+14BM92R01,M,Rabin Roy,,BRH
+14BM92R02,M,Mirza Mabood Ali Beg,,BRH
+14BM92R03,M,Abhinav Kumar Rajverma,,BRH
+14BS91R01,M,Avishek Dutta,,BCR
+14BS92F01,M,Anupam Apoorva,,BRH
+14BS92R01,M,Bina Kumari Singh,,BRH
+14BT10001,M,Nihar Ranjan Satapathy,,RKH
+14BT10002,M,Abishek Maandi,,MSH
+14BT10005,M,Amit Kumar,,PAT
+14BT10006,M,Bishesh Sen,,AZD
+14BT10007,M,Bogadi Sai Chandra Teja,,RKH
+14BT10008,M,Deepak Kumar Jha,,RPH
+14BT10010,M,Gyan Darshan,,RPH
+14BT10011,F,Madhusmita Patra,,SN/IG
+14BT10012,M,Manash Pratim Das,,VSH
+14BT10013,F,Manvi,,MTH
+14BT10014,M,Martha Rakesh,,RPH
+14BT10015,F,Payel Sardar,,SN/IG
+14BT10016,M,Pratyusha Kumar Chayani,,LBS
+14BT10017,F,Rajuladevi Vidhya Sree,,MTH
+14BT10018,F,Remee Patel,,SN/IG
+14BT10019,F,Returu Prathyusha Vasanth,,MTH
+14BT10024,M,Shah Harsh Jatin,,PAT
+14BT10025,F,Shilpi Jindal,,SN/IG
+14BT10027,F,Vaishali Yadav,,SN/IG
+14BT30001,M,Aman Bharatee Besara,,LLR
+14BT30002,M,Aman Chunara,,LLR
+14BT30005,F,Bhumika Singh Rathore,,SN/IG
+14BT30006,M,G Sai Akhil,,PAT
+14BT30007,M,Hari Pranav K,,RPH
+14BT30008,F,Jabbar Aliya Farid Naemat,,SN/IG
+14BT30009,F,Km Pravina Yadav,,SN/IG
+14BT30010,M,Kunal Singh,,NHR
+14BT30011,M,Lovish Puri,,RPH
+14BT30012,M,Md Harun Rashid,,MSH
+14BT30013,M,Muthu Ganesh.S,,RPH
+14BT30015,F,Nupur Jain,,SN/IG
+14BT30016,M,Ravindra Jain,,MSH
+14BT30017,F,Sarilla Anusha,,MTH
+14BT30018,M,Shantanu Arora,,AZD
+14BT30019,M,Shemal Shrenik Doshi,,RKH
+14BT30022,M,Siddhesh Labdhe,,AZD
+14BT30023,M,Subham Kumar Kedia,,NHR
+14BT30024,M,Vanthala Aravind Kumar,,VSH
+14BT3FP09,M,Varun Mundhra,,NHR
+14BT92F01,M,Ekta,,BRH
+14BT92F02,M,Anagha Krishnamoorthy,,BRH
+14BT92R01,M,Rashika Singh,,BRH
+14BT92R02,M,Nazma Anjum,,BRH
+14CE10001,M,Abhishek Kumar Gautam,,RKH
+14CE10004,M,Aditya Tripathi,,LBS
+14CE10005,M,Amit Kumar,,NHR
+14CE10006,M,Amit Sahoo,,RPH
+14CE10007,M,Anukul Kumar,,RKH
+14CE10009,M,Ashish Yadav,,RPH
+14CE10012,M,Bhim Singh,,VSH
+14CE10013,M,Bijjam Jagan Mohan Reddy,,PAT
+14CE10015,M,Chetram Meena,,RKH
+14CE10016,M,Chhotelal Kumar,,MSH
+14CE10018,M,Gaurav Devendra Agrawal,,MSH
+14CE10019,M,Gaurav Sanjay Jain,,LLR
+14CE10021,M,Harsh S Rahamatkar,,AZD
+14CE10022,M,Immidisetty Anudeep,,MSH
+14CE10023,M,Jitendra Jangid,,RPH
+14CE10024,M,Kamineni Anand Babu,,RPH
+14CE10025,M,Kapil Verma,,NHR
+14CE10026,M,Karri Chandra Sekhara Sai Unmesh,,AZD
+14CE10027,M,Kokkiligadda Sai Raghu,,RPH
+14CE10029,M,Kudumala Viswanth Teja,,NHR
+14CE10030,M,Lokesh Meena,,RKH
+14CE10031,M,Manish Kumar,,HJB
+14CE10032,M,Mayank Jindal,,LLR
+14CE10033,M,Moghe Milun Sanjay,,AZD
+14CE10034,M,Mounesh Badiger,,MSH
+14CE10035,M,Nawazish Parwez,,LLR
+14CE10036,M,Nitesh Agarawal,,AZD
+14CE10037,M,Nitish Kumar,,AZD
+14CE10038,M,Piyush Kumar Sharma,,RPH
+14CE10039,M,Pradyuman Sharma,,VSH
+14CE10040,M,Raevent Kaul,,LLR
+14CE10041,M,Rahul Jain,,RPH
+14CE10042,M,Rahul Kumar Meena,,MSH
+14CE10043,M,Raj Kumar Anand,,NHR
+14CE10044,M,Rajat Gupta,,RPH
+14CE10045,M,Revalla Venkata Avinash,,RKH
+14CE10046,M,Sahil Khare,,RPH
+14CE10047,M,Sai Sowgandh Piriya,,RPH
+14CE10048,M,Sanat Kumar Saha,,LLR
+14CE10049,M,Saurav Suman,,AZD
+14CE10052,M,Shubham Kumar Sah,,RPH
+14CE10054,M,Tangudu Jagadeesh,,RKH
+14CE10055,M,Udit Sarin,,AZD
+14CE10056,M,Utsav Agarwal,,MSH
+14CE10057,M,Vaibhav Chandra Goyal,,LLR
+14CE10058,F,Vaishali Singh,,SN/IG
+14CE10060,M,Vikas Kumar Kharay,,VSH
+14CE10061,M,Yash Rajendra Bajaj,,AZD
+14CE10062,M,Yash Verma,,NHR
+14CE30001,M,Gautam Kumar Yadav,,NHR
+14CE30002,M,Abhishek Kumar Yadav,,AZD
+14CE30005,M,Akshay Meena,,AZD
+14CE30006,F,Amisha Kumari Sah,,SN/IG
+14CE30007,M,Amit Kumar,,AZD
+14CE30008,M,Ankit Singh,,RKH
+14CE30009,M,Anuj Patel,,AZD
+14CE30010,M,Ashish Verma,,RPH
+14CE30011,M,Ashutosh Rajoriya,,AZD
+14CE30012,M,Bhalerao Parimal Chandrakant,,NHR
+14CE30013,M,Kamineni Rama Krishna,,RPH
+14CE30014,M,Kumar Sri Nivas,,AZD
+14CE30015,F,Manisha Meena,,SN/IG
+14CE30016,F,Mulagala Padmavathi,,MTH
+14CE30018,M,Potlapati Jaswanth Reddy,,NHR
+14CE30020,M,Rahul,,VSH
+14CE30021,F,Richa Kumari,,SN/IG
+14CE30022,M,Satyam Kumar,,PAT
+14CE30023,M,Shyamal Kumar,,RKH
+14CE3FP02,M,Arihant Buccha,,LBS
+14CE3FP11,M,Piyush Kumar Singh,,PAT
+14CE3FP17,M,Ajit Sharma,,AZD
+14CE64R05,M,Milon Murmu,,MMH
+14CE64R05,M,Milon Murmu,,MMH
+14CE65R30,M,Ashisa Ranjan Jena,,MMH
+14CE65R30,M,Ashisa Ranjan Jena,,MMH
+14CE90J01,M,Sk Zeeshan Ali,,BRH
+14CE91R03,M,Ashish Kumar Nayak,,BRH
+14CE91R04,M,Koushik Halder,,BRH
+14CE91R05,M,Digvijay Kumar Singh,,BRH
+14CE91R06,M,Saptarshi Kumar Lahiri,,BRH
+14CE91R07,M,Subhajit Sen,,BRH
+14CE91R08,M,Rajarshi Pramanik,,BRH
+14CE91R09,M,Trailokyanath Subudhi,,BRH
+14CE91R12,M,Subha Ghosh,,BRH
+14CE91R13,M,Munavar Fairooz C,,BRH
+14CE91R16,M,Anush K C,,BRH
+14CE91R17,M,Subhasis Pradhan,,BRH
+14CE91R18,M,Naren  A,,BRH
+14CE92R01,M,Nagendra Kola,,BRH
+14CE92R02,M,Subhajit Das,,BRH
+14CE92R03,M,Anupam Maity,,BRH
+14CH10001,M,Vishal Kumar Verma,,RPH
+14CH10002,M,Abhishek Mandal,,RPH
+14CH10003,M,Abhishek Moulik,,AZD
+14CH10004,M,Aditya Agarwal,,RPH
+14CH10005,M,Akash Kumar,,RPH
+14CH10006,M,Aman Kumar Singh,,RPH
+14CH10007,M,Amar Kumar,,PAT
+14CH10008,M,Amit Kumar,,LLR
+14CH10009,M,Amit Kumar,,PAT
+14CH10010,M,Ankit Kumar Lohani,,RPH
+14CH10011,F,Ankita Prerna Kujur,,SN/IG
+14CH10012,M,Ankur Mehta,,PAT
+14CH10013,F,Aradhana Kumar,,SN/IG
+14CH10014,M,Archit Singh,,RPH
+14CH10016,M,Arka Koner,,RKH
+14CH10018,M,Ayush Banerjee,,NHR
+14CH10019,M,Ayush Kamble,,AZD
+14CH10020,M,Boorla Veda Sheersh,,RPH
+14CH10021,M,Chaganti Sainath Reddy,,RPH
+14CH10022,M,Chilla Naveen Shankar,,RPH
+14CH10023,M,Chirag Mahanot,,RPH
+14CH10024,M,Dinesh Kumar,,AZD
+14CH10025,F,Divya Shrivastava,,SN/IG
+14CH10026,M,Ghanshyam Dhakad,,LLR
+14CH10027,M,Gubbala Vinay Sai Krishna,,RKH
+14CH10028,M,Harsh Bhardwaj,,RKH
+14CH10029,M,Himanshu Doi,,RKH
+14CH10031,M,Israrul Haque,,MSH
+14CH10032,F,Kottam Yashashwani Preethi,,MTH
+14CH10033,M,Mayank Sinha,,NHR
+14CH10034,M,Narendra Majhi,,AZD
+14CH10035,M,Niraj Keshri,,PAT
+14CH10036,M,Nukapeyya Raghu Ram,,NHR
+14CH10038,M,Pinak Bhusan Mohapatra,,RPH
+14CH10040,M,Rahul Kumar,,LLR
+14CH10041,M,Rohit Singh,,AZD
+14CH10042,M,Shubham Malviya,,AZD
+14CH10043,M,Shubham Mangla,,AZD
+14CH10044,M,Sidhant,,RKH
+14CH10046,M,Suhas Bendle,,VSH
+14CH10048,M,Surendra Meena,,MSH
+14CH10049,M,Swastik Pradhan,,HJB
+14CH10050,M,Ushnish Rana,,VSH
+14CH10051,M,Vedant Dixit,,PAT
+14CH10052,M,Vishal Katiyar,,HJB
+14CH10053,M,Zain Ahmad,,RKH
+14CH10054,M,S.N.Aditya Murthy,,AZD
+14CH10055,M,Manish Ayushman,,VSH
+14CH10056,M,V Ramakrishnan Iyer,,NHR
+14CH30001,M,Mayank Tripathi,,MSH
+14CH30002,M,Abhishek Saxena,,RKH
+14CH30003,M,Ayush Agrawal,,RPH
+14CH30004,M,Amit Agarwal,,MSH
+14CH30005,M,Anand Raj,,MSH
+14CH30007,M,Apoorv Singhal,,RPH
+14CH30009,M,Ayush Singhal,,RPH
+14CH30010,M,Bang Mithil Suresh,,LBS
+14CH30011,M,Chakranarayan Piyush Shivram,,AZD
+14CH30012,M,Debangshu  Haldar,,MSH
+14CH30013,M,Dharavath Prashanth,,RPH
+14CH30014,M,Hukam Singh Bhakar,,MSH
+14CH30015,M,Jasveer Singh Chauhan,,RKH
+14CH30016,M,Kapil Virani,,AZD
+14CH30017,M,Kartik Gupta,,RPH
+14CH30018,M,Nilesh Saini,,RPH
+14CH30019,M,Potu Snehith,,RPH
+14CH30020,M,Pranjal Jain,,PAT
+14CH30021,M,Radheshyam Tard,,PAT
+14CH30022,M,Rahul Kumar,,NHR
+14CH30023,M,Rohit Kumar,,MSH
+14CH30024,M,Saripalli Sreekar,,AZD
+14CH30025,M,Saumya Suman Mohapatra,,MSH
+14CH30026,M,Subhrashankha Rakshit,,RPH
+14CH30027,F,Surabhi Soni,,SN/IG
+14CH30028,M,Tathagat Kumar,,NHR
+14CH30029,M,Saikat Biswas,,LBS
+14CH30030,M,Aditya Goenka,,RKH
+14CH3FP06,M,Patel Tanmay Girishkumar,,MSH
+14CH3FP18,M,Avijit Ghosh,,VSH
+14CH60R41,M,Mrigank Shashi,,MMH
+14CH60R41,M,Mrigank Shashi,,MMH
+14CH91Q01,M,Amit Jain,,BRH
+14CH91R01,M,Nitai Chandra Maji,,BRH
+14CH91R03,F,Manisha Bal,,RLB
+14CH91R03,F,Manisha Bal,,RLB
+14CH91R04,M,Sontti Somasekharagoud,,BRH
+14CH91R05,M,Debashis Roy,,BRH
+14CH91R08,M,Krishnayan Haldar,,BRH
+14CH91R09,M,Manas Ranjan Behera,,BRH
+14CH91R10,M,Chayan Sarkar,,BRH
+14CH91R11,M,Victor Avisek Chatterjee,,BRH
+14CH91R12,M,Souvik Kumar Paul,,BRH
+14CH91R14,M,Biswarup Mondal,,BRH
+14CH91R16,M,Abir Chakravorty,,BRH
+14CH91R17,M,Gottemukkala Narsimha,,BRH
+14CH91R18,M,Soumendu Dasgupta,,BRH
+14CH91R19,F,Vartika Parihar,,RLB
+14CH91R19,F,Vartika Parihar,,RLB
+14CH92R02,M,Aditi Chatterjee,,BRH
+14CH92R03,M,Vangala Sai Phani Kumar,,BRH
+14CH92R04,M,Saikat Bhattacharjee,,BRH
+14CH92R05,M,Phanikumar Pentyala,,BRH
+14CH92R06,M,Sidharth Sankar Parhi,,BRH
+14CL91F01,M,Bijan Kumar Das,,BRH
+14CL92R01,M,Sujit Madhab Ghosh,,BRH
+14CL92R03,M,Nadimpalli Jithendra Raju,,BRH
+14CR91R03,M,Jayachandran K N,,BRH
+14CR91R04,M,Jubil Joy,,BRH
+14CS10001,M,Abhishek Panigrahi,,LLR
+14CS10002,M,Aditya Jain,,RPH
+14CS10003,M,Akhil Jain,,MSH
+14CS10004,M,Aniket Suri,,RKH
+14CS10005,M,Ankit Kumar Baruah,,RPH
+14CS10006,M,Apurv Kumar,,AZD
+14CS10007,M,Athili Sai Gopal,,NHR
+14CS10008,M,Avikalp Srivastava,,RPH
+14CS10009,M,Avinash Gupta,,RPH
+14CS10010,M,Bonela Sanjith,,LBS
+14CS10011,M,Chaparala Jai Krishna,,AZD
+14CS10012,M,Dadi Madhu Kumar,,RPH
+14CS10013,M,Dogga Pradeep,,VSH
+14CS10014,F,Geetanjali Talluri,,MTH
+14CS10015,M,Gopu Anirudh,,LLR
+14CS10016,M,Gudepu Prithvi Raj Reddy,,AZD
+14CS10017,F,Gugloth Niharika,,MTH
+14CS10018,M,Gujjarlapudi Kiran Sing Sastry,,MSH
+14CS10019,M,Gurmeet Singh Ahuja,,VSH
+14CS10020,M,Gutha Sai Bharath Chandra,,NHR
+14CS10021,M,Guthi Viswanadh Dattatreya Sai Krishna,,PAT
+14CS10022,M,Ishaan Sang,,RPH
+14CS10023,M,K Basava Raj,,AZD
+14CS10024,M,Kanakamedala Jaya Chandra,,RKH
+14CS10025,M,Kinsuk Das,,RKH
+14CS10026,M,Konidala Muni Lohith Krishna Mohan,,RPH
+14CS10028,M,Krishang Sudhir Garodia,,MSH
+14CS10029,M,Kunal,,RPH
+14CS10030,M,Kushagra Goel,,RPH
+14CS10031,M,Mangipudi Kalyan Bhargav,,NHR
+14CS10032,M,Manikya Singh,,RKH
+14CS10033,M,Mata Harish,,LBS
+14CS10034,M,P.P.Akash,,RKH
+14CS10035,M,Pala Sai Surya Praharsha,,RKH
+14CS10036,M,Pranay Dhote,,LLR
+14CS10037,M,Ragireddy Sri Charan Reddy,,RPH
+14CS10038,M,Rajarshi Haldar,,LLR
+14CS10039,M,Rajat Garg,,RKH
+14CS10040,M,Ritvik Raj,,LLR
+14CS10041,M,Sahil Rishi,,RPH
+14CS10042,M,Shashank Srivastava,,AZD
+14CS10043,M,Shubham Jain,,RPH
+14CS10044,M,Shubham Singh,,LLR
+14CS10045,M,Siddhant Dalbir Singh,,LLR
+14CS10046,M,Siddharrth Priyadharsan M,,RKH
+14CS10047,M,Tarakaturi Jeevan Kumar,,AZD
+14CS10048,M,Tejaswin Kopparty,,RKH
+14CS10049,M,Thummalagunta Karthik,,AZD
+14CS10050,M,Vaibhav Agarwal,,MSH
+14CS10051,M,Vikas Kumar Periwal,,NHR
+14CS10052,M,Vikash Minz,,NHR
+14CS10053,M,Vishal Chauhan,,RPH
+14CS10054,F,Yara Manisha,,SN/IG
+14CS10055,M,Yash Agrawal,,RPH
+14CS10056,M,M Tharun,,LBS
+14CS10057,M,Projjal Chanda,,NHR
+14CS10058,M,Satyesh Mundra,,RPH
+14CS10059,M,Vaishal Shah,,RPH
+14CS10060,M,Ashrujit Ghoshal,,LLR
+14CS10061,M,Sayan Ghosh,,MSH
+14CS10062,M,Sourav Pal,,MSH
+14CS30001,M,Aakash Verma,,LBS
+14CS30002,M,Aditya Bhagwat,,MSH
+14CS30003,M,Akhilesh Hessa,,HJB
+14CS30004,M,Aniket Choudhary,,LLR
+14CS30005,M,Arijit Panigrahy,,LLR
+14CS30006,M,Asket Agarwal,,NHR
+14CS30007,M,Bharadwaj Anurag Abhijit,,MSH
+14CS30008,M,Dishank Agrawal,,LLR
+14CS30009,M,Dudhe Mayur,,RKH
+14CS30010,M,Gulab Arora,,RPH
+14CS30011,M,Hiware Kaustubh Narendra,,AZD
+14CS30012,M,Jacob Tomy C,,VSH
+14CS30013,M,Kushagra Aggarwal,,RPH
+14CS30014,M,Lavudiya Purnachandar,,RPH
+14CS30015,M,Madhav Datt,,AZD
+14CS30016,M,Madhuresh Kumar,,RPH
+14CS30017,M,Midatala Surya,,NHR
+14CS30018,M,Mitikiri Praveen Kumar,,LBS
+14CS30019,M,Mousam Roy,,RPH
+14CS30020,M,Palem Srikanth Reddy,,MSH
+14CS30021,M,Pate Vedant Sanjay,,MSH
+14CS30022,M,Ponnada Harshavardhan,,AZD
+14CS30023,M,Prabal Singh,,RPH
+14CS30024,F,Prachi Mandil,,SN/IG
+14CS30025,M,Pranay Pratyush,,NHR
+14CS30026,M,Pranjal Shankhdhar,,AZD
+14CS30027,M,Rameshwar Bhaskaran,,AZD
+14CS30028,M,Rayudu Tejesh,,MSH
+14CS30029,M,Rohan Rajak,,PAT
+14CS30030,M,S V Dilip Kumar,,LLR
+14CS30031,M,Sabbavarapu Vishnu Praneeth,,LBS
+14CS30032,M,Sayan Mandal,,RKH
+14CS30033,M,Shubham Kumar,,MSH
+14CS30034,M,Shubham Sharma,,RKH
+14CS30035,M,Srinidhi V Bhat,,RKH
+14CS30036,F,T Vijaya Harshitha,,MTH
+14CS30037,M,Utkarsh Umesh Parasrampuria,,RKH
+14CS30038,M,Vishal Tomar,,RKH
+14CS30040,M,Vuyyuru Praveen Vamsi,,AZD
+14CS30041,M,Ritam Dutt,,VSH
+14CS30042,F,Meghna Sengupta,,SN/IG
+14CS30043,F,Arundhati  Banerjee,,SN/IG
+14CS30044,M,Sohan Patro,,VSH
+14CS90J01,M,Bruto Da Costa Antonio Anastasio,,BRH
+14CS90J02,M,Debapriya Basu Roy,,BRH
+14CS91R01,M,Barnali Das,,BRH
+14CS91R02,M,Soumadip Biswas,,BRH
+14CS91R07,M,Abhijnan Chakraborty,,BRH
+14CS92R01,M,Abantika Pal,,BRH
+14CS92R02,M,Surjya Ghosh,,BRH
+14CS92R03,M,Abhik Jana,,BRH
+14CS92R04,M,Urbi Chatterjee,,BRH
+14CS92R05,M,Aritra Mahapatra,,BRH
+14CS92R06,M,Swapan Maiti,,BRH
+14CS92R07,M,Pritam Bhattacharya,,BRH
+14CS92R08,M,Suhansanu Kumar,,BRH
+14CY20001,M,Kinkari Daya Sankara Eswaranaidu,,AZD
+14CY20002,M,Ramkishor  Meena,,RKH
+14CY20004,M,Adil Panwar,,PAT
+14CY20005,F,Amisha Garg,,MTH
+14CY20007,M,Anuj Kumar Gupta,,PAT
+14CY20009,M,Bollu Nikhil,,AZD
+14CY20015,M,Kiran Chillewad,,RPH
+14CY20018,M,Mithosh K M,,VSH
+14CY20021,M,Rohan Khilnani,,RPH
+14CY20022,M,Sameer Singh,,VSH
+14CY20024,M,Shubham Bhatt,,HJB
+14CY20027,F,Smita Mandal,,SN/IG
+14CY20028,F,Srijoni Majhi,,SN/IG
+14CY20034,M,Vinod Kumar Meena,,LBS
+14CY20035,M,Vishwajeet Chaurasia,,RPH
+14CY90J05,M,Pritam Roy,,BRH
+14CY90J06,M,Mohan Chandra Sau,,BCR
+14CY90J10,F,Sanghamitra Das,,RLB
+14CY90J10,F,Sanghamitra Das,,RLB
+14CY90J11,M,Santanu Chand,,BCR
+14CY90J12,F,Arundhoti Mandal,,RLB
+14CY90J12,F,Arundhoti Mandal,,RLB
+14CY90J13,M,Manoranjan Bera,,BCR
+14CY90J16,M,Saurav Kayal,,BRH
+14CY91F01,M,Debapratim Das,,BRH
+14CY91F02,M,Samrat Sahu,,BRH
+14CY91F03,M,Manas Ghara,,BRH
+14CY91F04,M,Niladri Sinha,,BRH
+14CY91F05,M,Ankush Banerjee,,BRH
+14CY91F06,M,Ranajit Saha,,BCR
+14CY91F09,M,Bidhan Ghosh,,BCR
+14CY91F12,M,Soumitra  Manna,,BRH
+14CY91R01,F,Amrita Paul,,RLB
+14CY91R01,F,Amrita Paul,,RLB
+14CY91R02,F,Pousali Samanta,,RLB
+14CY91R02,F,Pousali Samanta,,RLB
+14CY91R03,M,Rajkumar Sahoo,,BCR
+14CY91R04,M,Jayanta Mondal,,BCR
+14CY91R07,M,Tanay Deb Barman,,BRH
+14CY91R08,M,Ayon Karmakar,,BRH
+14CY91R09,M,Suvankar Debbarma,,BCR
+14CY91R11,M,Sabyasachi Roy Chowdhury,,BCR
+14CY91R13,F,Sultana Parveen,,RLB
+14CY91R13,F,Sultana Parveen,,RLB
+14CY91R14,F,Eshani Das,,RLB
+14CY91R14,F,Eshani Das,,RLB
+14CY92F01,M,Alok Kumar,,BRH
+14CY92F02,M,Ranjan Kumar Acharyya,,BRH
+14CY92F03,M,Subrata Mandal,,BRH
+14CY92F05,M,Vipin Kumar Mishra,,BRH
+14CY92R01,M,Sonali Panda,,BRH
+14CY92R04,M,Dipmalya Basak,,BRH
+14CYPD101,M,Susanta Ghanta,,BRH
+14CYPD203,M,Chanchal Bhaumik,,BRH
+14CYPD204,M,Rajesh Kumar Saini,,BRH
+14CYPD206,M,Ranadeep Talukdar,,BRH
+14EC10001,F,Bhukya Manga,,MTH
+14EC10002,M,Aditya Sinha,,RKH
+14EC10003,M,Aman Goyal,,RKH
+14EC10004,M,Ankur Goyal,,RKH
+14EC10005,M,Arnab Kumar Mondal,,RKH
+14EC10006,M,Ashok Kumar Sahoo,,AZD
+14EC10007,M,Badini Sai Mahadev,,RKH
+14EC10008,F,Bandi Manisha,,MTH
+14EC10009,M,Bhawani Singh,,MSH
+14EC10010,M,Bukke Harshavardhan,,LBS
+14EC10011,M,Chepyala Praneeth,,RPH
+14EC10012,M,Chigullapally Mohith,,RPH
+14EC10013,M,Chiluveru Vijay Bhaskar,,LBS
+14EC10014,M,Dhanavath Sunil,,LBS
+14EC10015,M,Donkada Vijay Harsha,,AZD
+14EC10016,M,Dumpa Sandeep Kumar,,LLR
+14EC10017,M,Godala Anirudh Reddy,,RPH
+14EC10018,F,Gogineni Manasa,,MTH
+14EC10019,M,Jaydip Das,,RKH
+14EC10020,M,Kamireddy Lakhan Saiteja,,PAT
+14EC10021,M,Kantipudi Tarun Kumar,,RPH
+14EC10022,M,Kidambi Narasimha Vasishta,,HJB
+14EC10023,M,Kodali Sai Krishna,,RPH
+14EC10024,M,Koruprolu Asish,,RKH
+14EC10025,M,Lalit Khemlani,,RPH
+14EC10026,M,Lanka Teja,,MSH
+14EC10027,F,Lingala Kiranmai,,MTH
+14EC10028,M,M Gagansai,,NHR
+14EC10029,M,M Thilak Raj,,LBS
+14EC10030,M,Maganti Nikhil Harsha,,HJB
+14EC10031,M,Murakonda Sasi Kumar,,AZD
+14EC10032,F,Nalla Pravallika,,MTH
+14EC10034,M,Nishant Mehrotra,,RKH
+14EC10035,M,Pasala Narayan Shourya,,LBS
+14EC10037,M,Prashant Kumar,,RKH
+14EC10038,M,R Amar Raj,,RPH
+14EC10039,M,Rahul Sudhir Bhangale,,AZD
+14EC10040,M,Rajat Chaurasia,,RPH
+14EC10041,M,Rakshit Pathak,,MSH
+14EC10042,M,Rasik Murmu,,NHR
+14EC10044,M,Rohit Kumar Boga,,RPH
+14EC10045,M,S Dushyant,,NHR
+14EC10046,M,Salimatte Venkat Vinay,,RPH
+14EC10047,M,Sandeep Mishra,,MSH
+14EC10048,M,Sarthak Sugandhi,,LLR
+14EC10049,M,Satyanand,,AZD
+14EC10050,M,Saurabh Dash,,RKH
+14EC10051,M,Shubham Soni,,RPH
+14EC10053,M,Swapnil Kumar,,PAT
+14EC10054,M,Swarnabha Roy,,AZD
+14EC10055,M,Theegala Sai Nikhil,,MSH
+14EC10056,M,Umang Kumar,,AZD
+14EC10057,M,Upamanyu  Chongdar,,HJB
+14EC10058,F,Vaddi Veda Vyshnavi,,MTH
+14EC10059,F,Vasudha Todi,,SN/IG
+14EC10060,M,Vemula Sharathchandra,,AZD
+14EC10061,M,Wasnik Nikesh Sunil,,RKH
+14EC10062,M,Yaswanth Battineedi,,RKH
+14EC10063,M,Yerramsetty Sandeep,,RPH
+14EC10064,M,Indranil Nayak,,MSH
+14EC10065,M,Soumil Jain,,AZD
+14EC10066,M,Arkadev Roy,,VSH
+14EC10067,M,Rajarshi Khan,,RPH
+14EC10068,M,Rounak Choudhury,,LBS
+14EC30001,M,Abhinav Kumar Verma,,VSH
+14EC30002,M,Abhishek Kumar Chaudhary,,NHR
+14EC30004,M,Amitesh Shashank,,VSH
+14EC30005,F,Anjali Yadav,,SN/IG
+14EC30007,M,Arvind Srivastav,,VSH
+14EC30008,M,Bangar Mayur Sheshrao,,PAT
+14EC30009,M,Boga Anil Kumar,,RPH
+14EC30010,F,Charu Agrawal,,SN/IG
+14EC30012,M,Dokku Muralidhar,,AZD
+14EC30013,M,Gobburi Sai Kashyap,,RKH
+14EC30014,M,Harmendra Mishra,,RKH
+14EC30015,M,Harshit Kumar,,MSH
+14EC30016,F,Kasina Bindu Madhavi,,MTH
+14EC30017,M,Kota Venkat Suraj,,MSH
+14EC30018,F,Lanka Navya,,SN/IG
+14EC30019,F,Lavudya Srilaxmi,,MTH
+14EC30020,M,Nilanjan Sarkar,,MSH
+14EC30021,F,Oindrila Saha,,MTH
+14EC30022,M,Pankaj Chauhan,,RKH
+14EC30023,M,Piyush Jena,,RPH
+14EC30024,M,Prerit Gupta,,AZD
+14EC30025,M,Sonavane Raghav Sanjay,,RPH
+14EC30026,M,Ritesh Kumar Babarwal,,NHR
+14EC30027,F,Ritwika Chowdhury,,SN/IG
+14EC30028,M,Sajjanapu Vinay,,AZD
+14EC30029,M,Shah Kaushal Viral,,RPH
+14EC30030,M,Shashank Verma,,RKH
+14EC30032,M,Somi Prakash Biswas,,AZD
+14EC30033,M,Srikakulapu Akhilesh,,LLR
+14EC30034,M,Srujan Kagitala,,MSH
+14EC30035,M,Suman Kumar,,MSH
+14EC30036,M,Swastik Saini,,MSH
+14EC30037,M,Tejas Nitin Lad,,RKH
+14EC30038,M,Tridandapani Venkat Nithin,,LLR
+14EC30039,M,Vineet Jain,,PAT
+14EC30040,M,Vishu Sidana,,RKH
+14EC30041,M,Shashwat Mishra,,PAT
+14EC30042,M,Sunayan Dalal,,RPH
+14EC30043,M,Atul Bansal,,NHR
+14EC30044,M,Preetham K.S.,,AZD
+14EC30045,M,Ritabrata Ray,,LBS
+14EC30046,M,Shaswat Datta,,RPH
+14EC63R08,M,Rudra Sankar Bandyopadhyay,,MMH
+14EC63R08,M,Rudra Sankar Bandyopadhyay,,MMH
+14EC64R16,M,Rajesh Kumar,,MMH
+14EC64R16,M,Rajesh Kumar,,MMH
+14EC65R05,M,Mogadati Rajkumar,,MMH
+14EC65R05,M,Mogadati Rajkumar,,MMH
+14EC91R02,M,Suvadeep Choudhury,,BRH
+14EC91R03,M,Mula V S Subrahmanyam,,BRH
+14EC91R05,M,Sandip Ghosal,,BCR
+14EC91R06,F,Neelamma Patil,,RLB
+14EC91R06,F,Neelamma Patil,,RLB
+14EC91R07,M,Raktim Haldar,,BRH
+14EC91R09,F,Manisha Kahar,,RLB
+14EC91R09,F,Manisha Kahar,,RLB
+14EC91R10,M,Samrat Mukhopadhyay,,BRH
+14EC92R01,M,Ayan Palchaudhuri,,BRH
+14EC92R02,M,Anand Kumar Mukhopadhyay,,BRH
+14EC92R03,M,Bibhas Manna,,BRH
+14EE10001,M,Abhinav Agarwal,,NHR
+14EE10002,M,Aekula Komal,,VSH
+14EE10003,M,Akhinepalli Ram Chander,,RPH
+14EE10004,M,Anirban Mitra,,RPH
+14EE10005,M,Arpan Mukherjee,,RPH
+14EE10006,M,Atul Patel,,RPH
+14EE10007,M,Baddepudi Jashuva,,RPH
+14EE10008,M,Bandaru Aditya Siva Sasi Prasanth,,MSH
+14EE10009,M,Boddepalli Dilleswara Rao,,RPH
+14EE10010,M,Chinmay Joshi,,RPH
+14EE10011,M,Chinmoy Samant,,RKH
+14EE10012,M,Dantuluri Srikar Varma,,PAT
+14EE10013,M,Deep Lal Kocharee,,AZD
+14EE10014,F,Dornadula Srilekha,,MTH
+14EE10016,M,Ganta Chanakya Vamsi,,RKH
+14EE10017,M,Gantasala Arun Chandra,,MSH
+14EE10018,M,Gubba Manoj Kumar,,RKH
+14EE10019,M,Himanshu Kumar Singh,,LLR
+14EE10020,M,Jitendra Nath Singh Bindra,,RPH
+14EE10021,M,Jitendra Prajapati,,RKH
+14EE10022,M,Jithin Sukumar,,RKH
+14EE10023,M,Joshi Shaileshkumar Anilkumar,,VSH
+14EE10024,F,Konatham Geetha Lakshmi,,MTH
+14EE10026,M,Manne Naga Nithin,,AZD
+14EE10027,M,Mekala Raja Sekhar Reddy,,AZD
+14EE10028,M,Nainala Gowtham Sandeep,,PAT
+14EE10029,M,Nairit Das,,VSH
+14EE10030,M,Navin Bhaskar,,RPH
+14EE10031,M,Pankaj Patidar,,RPH
+14EE10032,M,Parth Jinwala,,RKH
+14EE10033,M,Prabhat Kumar,,RKH
+14EE10034,M,Prashant Yadav,,RKH
+14EE10036,M,Raghupati Singh Mahour,,AZD
+14EE10037,M,Ramavath Murali Krishna,,VSH
+14EE10038,M,Ranjan Kumar,,RPH
+14EE10039,M,Ritesh Soni,,AZD
+14EE10040,M,Ritik Jain,,AZD
+14EE10041,M,Sana Sree Raj,,LLR
+14EE10042,M,Sangamesh Dhanayya Kodge,,LBS
+14EE10044,M,Shubham Kumar Singh,,RKH
+14EE10045,M,Srikar Ballipalli,,RPH
+14EE10046,M,Suraj,,AZD
+14EE10047,M,Surya Jeet Singh,,RPH
+14EE10048,M,Susanta Kora,,RKH
+14EE10050,M,Talari Vishnu Prasad,,LLR
+14EE10051,M,Umang Rungta,,PAT
+14EE10052,M,V Jaya Shankar Ashish Peruri,,RKH
+14EE10054,M,Vatte Vineeth Reddy,,HJB
+14EE10055,M,Vivek Chandra Sardar,,RPH
+14EE10056,M,Chandra Prakash Ojha,,LBS
+14EE10057,M,Sayan Samanta,,VSH
+14EE10058,M,Arghya Mukherjee,,RKH
+14EE10059,M,Audireddy Avinash,,VSH
+14EE10060,M,Sounak Maji,,RPH
+14EE10061,F,Neha Banerjee,,SN/IG
+14EE10062,M,Bobba Venkata Prajwal,,RKH
+14EE10063,M,Kumar Mritunjay,,PAT
+14EE10064,M,Rishabh Jain,,AZD
+14EE10065,M,Francis Tom,,RKH
+14EE30001,F,Aarushi Agrawal,,SN/IG
+14EE30002,M,Abhishek Mohapatra,,RPH
+14EE30003,M,Agrawal Akash Prakashchandra,,NHR
+14EE30004,M,Ajay Singh,,LLR
+14EE30005,M,Amlan Shil,,LBS
+14EE30006,M,Arpit Amit Bansal,,RPH
+14EE30007,F,Bagannagary Supriya Reddy,,MTH
+14EE30008,M,Buddha Lakshmi Venkata Sai Vamsi,,PAT
+14EE30009,M,Chandan Suthar,,NHR
+14EE30010,M,Devanand Kedia,,AZD
+14EE30011,M,Hrishikesh Menon,,RPH
+14EE30012,M,Kasaraneni Sai Hemanth,,RKH
+14EE30013,M,Manish Mukherjee,,MSH
+14EE30014,M,Mragank Shekhar Singh,,PAT
+14EE30015,M,Pala Abishay,,RKH
+14EE30016,M,Parmar Shubham Ashwinkumar,,MSH
+14EE30017,M,Pawar Amey Ashok,,RKH
+14EE30018,M,Pratik Bharti,,RPH
+14EE30019,M,Ramcharan Meena,,RPH
+14EE30020,M,Saurabh Malviya,,RPH
+14EE30021,M,Shreyas Saravanan,,LBS
+14EE30022,M,Siddharth Shankar Jha,,AZD
+14EE30023,F,Shruti Sagar,,SN/IG
+14EE30024,M,Shubham Negi,,NHR
+14EE62R11,M,Kailash Prasad Bhakat,,MMH
+14EE62R11,M,Kailash Prasad Bhakat,,MMH
+14EE90J01,M,Debranjan Mukherjee,,BRH
+14EE90J02,M,V Inder Kumar,,BRH
+14EE90J03,F,Avisha Tah,,RLB
+14EE90J03,F,Avisha Tah,,RLB
+14EE90J04,M,Gajare Swaroop Subhash,,BRH
+14EE91P01,M,Anirban Dasgupta,,BRH
+14EE91R01,M,Bishwajyoti Purkayastha,,BRH
+14EE91R02,M,Yalla Tirumala Rao,,BRH
+14EE91R03,M,Soumyabrata Barik,,BRH
+14EE91R04,M,Rabindra Mohanty,,BRH
+14EE91R07,M,Ritu Raj,,BRH
+14EE91R09,M,Saswata Satpathi,,BCR
+14EE91R10,F,Subhasmita Sahoo,,RLB
+14EE91R10,F,Subhasmita Sahoo,,RLB
+14EE91R11,M,Dina Anna John,,BRH
+14EE91S01,M,G Balawanth Reddy,,BRH
+14EE92R01,M,Kashinath Hesaroor,,BRH
+14EE92R02,M,Anil Bharadwaj Chivukula,,BRH
+14EE92R05,M,Ankesh Kumar Agrawal,,BRH
+14EE92R06,M,Tapabrata Sen,,BRH
+14EE92R07,M,Venkatesh Vakamullu,,BRH
+14EE92R08,M,Dhrupad Biswas,,BRH
+14EF91R01,F,Srimanti Dutta Gupta,,RLB
+14EF91R01,F,Srimanti Dutta Gupta,,RLB
+14EF91R02,M,Rishi Karan Singh Rathour,,BCR
+14EF91R04,F,Deblina Dutta,,RLB
+14EF91R04,F,Deblina Dutta,,RLB
+14EF92R01,M,Manoj Kumar Yadav,,BRH
+14EF92R02,M,K. Soma Sekhara Rao,,BRH
+14EF92S01,M,Animesh Bhattacharya,,BRH
+14ES91R01,M,Arkadipta Chandra,,BRH
+14ES92R01,M,Jeemut Bahan Sangiri,,BRH
+14ES92R02,M,Brajesh Kumar,,BRH
+14ES92R03,M,Vutukuru Ravindra,,BRH
+14ES92S01,M,Arghya Sardar,,BRH
+14ET92R01,M,Riya Bhattacharya,,BRH
+14EX20001,M,Abhishek Joshi,,MSH
+14EX20002,M,Sikan Kumar Birua,,LLR
+14EX20005,F,Arushi Chauhan,,MTH
+14EX20006,M,Avinash V,,PAT
+14EX20007,M,Bhushan Choudhary,,RPH
+14EX20008,M,Chunchun Kumar,,PAT
+14EX20009,M,Duttatreya Das,,MSH
+14EX20010,M,Ghule Suraj Tanaji,,AZD
+14EX20011,M,Girraj Singh Rana,,RPH
+14EX20012,M,Himesh Kothari,,RPH
+14EX20013,M,Karan Gupta,,RPH
+14EX20015,M,Kirloskar Mihir Milind,,RPH
+14EX20016,M,Kotana Venkata Sai Vikas,,RPH
+14EX20017,F,Medha Asija,,SN/IG
+14EX20018,M,Meshram Ashish Himmat,,LBS
+14EX20019,M,Mukesh Chandak,,AZD
+14EX20020,M,Nikhar Maloo,,RPH
+14EX20021,M,Nishant Singhania,,RPH
+14EX20022,M,Pranav Kumar,,MSH
+14EX20024,M,Rishabh Kumar,,VSH
+14EX20025,M,Rishikanta Ramakanta Jena,,AZD
+14EX20028,M,Sarvjeet Srivastava,,AZD
+14EX20029,M,Shah Nawaz Alam,,RKH
+14EX20030,F,Shalu Kumari,,SN/IG
+14EX20031,M,Shantanu Kumar,,RKH
+14EX20033,M,Shubham Goyal,,AZD
+14EX20035,M,Vishal Gaurav,,MSH
+14EX20036,M,Vishal Pateshwari,,MSH
+14GG20001,M,Sanjay Hansda,,HJB
+14GG20002,M,Aaditya Singh Rajawat,,NHR
+14GG20003,M,Abhijeet Soni,,RPH
+14GG20005,M,Ajay Mehta,,AZD
+14GG20007,M,Alok Verma,,RKH
+14GG20008,M,Anshul,,RPH
+14GG20010,M,Ashutosh Kumar,,RPH
+14GG20011,M,Bhartia Priyam,,AZD
+14GG20013,M,Divyanshu Yadav,,VSH
+14GG20014,M,Ghazi Sultan,,AZD
+14GG20015,M,Gurrala Naveen Kumar,,VSH
+14GG20019,M,Ketan Kumar,,LBS
+14GG20021,F,Mallika Singh,,MTH
+14GG20023,M,Manish Chandra Samad,,MSH
+14GG20025,M,Musarrat Beig,,PAT
+14GG20030,M,Saksham Goyal,,RKH
+14GG20031,M,Sarang Agrawal,,AZD
+14GG20033,M,Somesh Gupta,,LLR
+14GG20034,M,Sudhir Kumar,,PAT
+14GG20035,M,Sushil Kumar Meena,,RKH
+14GG20036,M,Suyash Yadav,,RPH
+14GG20037,M,Vaibhav Agrawal,,RPH
+14GG61R12,M,Malavathu Balyanaik,,MMH
+14GG61R12,M,Malavathu Balyanaik,,MMH
+14GG91F02,M,Sibin S,,BRH
+14GG91F03,M,Tuhin Chakraborty,,BRH
+14GG91F07,M,Shubhasmita Biswal,,BRH
+14GG91P01,M,Debajit Datta,,BRH
+14GG91R01,F,Shayantani Ghosal,,RLB
+14GG91R01,F,Shayantani Ghosal,,RLB
+14GG91R02,M,Rahul Biswas,,BRH
+14GG91R03,M,Sivaji Lahiri,,BRH
+14GG91R04,M,Subham Bose,,BRH
+14GG91R06,M,Suman Mondal,,BRH
+14GG91R11,M,Litan Kumar Mohanty,,BRH
+14GG91R13,M,Pragnaditya Malakar,,BRH
+14GG91R14,M,Subhamoy Jana,,BRH
+14GG91R16,M,Kirti Bhushan,,BRH
+14GG92F01,M,Gaurav Kumar,,BRH
+14GS90J01,M,Chittotosh Ganguly,,BRH
+14GS91Q01,M,Kutty Shajahan Mohammed,,BRH
+14GS91R01,M,Soumen Pandit,,BCR
+14GS91R02,M,Aritra Chatterjee,,BRH
+14GS91R03,M,Sourav Chatterjee,,BRH
+14GS92R01,M,Sadananda Behera,,BRH
+14GS92R02,M,Praveenkumar Korrai,,BRH
+14HS20002,M,Kush Kumar Meena,,MSH
+14HS20003,M,Aadish Jain,,RPH
+14HS20004,F,Aayushi,,SN/IG
+14HS20005,M,Abhishek Bala,,LBS
+14HS20006,M,Abhishek Kumar Yadav,,RPH
+14HS20007,M,Aditya Neema,,RKH
+14HS20008,M,Alapati Ajay Bhanu,,RKH
+14HS20011,M,Aryamen Singh,,RKH
+14HS20012,M,Ayush Yadav,,RPH
+14HS20015,M,Chevakula Vamsi,,LLR
+14HS20016,M,Devendra Kumar,,MSH
+14HS20017,M,Harshit Chahal,,AZD
+14HS20018,M,Krishna S Patil,,NHR
+14HS20019,M,Kushagra Chourasia,,VSH
+14HS20020,M,Love Kumar Shandilya,,LBS
+14HS20021,M,Manish Kumar,,LBS
+14HS20022,M,Mridul Kumar Pant,,RPH
+14HS20024,M,P Naveen Sai,,RKH
+14HS20025,M,Polineni Sridhar,,MSH
+14HS20026,M,Pranshu Shrivastava,,AZD
+14HS20027,M,Prashant Patil,,RKH
+14HS20029,M,Rahul Singh,,RPH
+14HS20030,M,Rajesh Kumar,,RKH
+14HS20031,M,Rishabh Surana,,RKH
+14HS20032,M,Rohit Mundra,,MSH
+14HS20033,F,Ruchika Bhatia,,SN/IG
+14HS20034,M,Shashank Nathani,,MSH
+14HS20035,M,Shashwat Gangwal,,NHR
+14HS20036,M,Shubham Bansal,,NHR
+14HS20037,M,Shubham Kumar,,RPH
+14HS20038,M,Siddhant Bharti,,RPH
+14HS20039,M,Siddharth Verma,,LLR
+14HS20040,M,Sidhant Agarwal,,LLR
+14HS20041,M,Sumit Poddar,,RPH
+14HS20042,M,Sutar Pankaj Rajaram,,AZD
+14HS20043,M,Vaibhav Chauhan,,RKH
+14HS20044,M,Vijay Kumar Khandelwal,,RPH
+14HS20045,M,Vijay Nagoria,,AZD
+14HS91F02,M,Bhaskar Jyoti Neog,,BRH
+14HS92F01,M,Pinaki Gayen,,BRH
+14HS92F02,M,Amrit Kumar Jha,,BRH
+14HS92F03,M,Suchitra Pramanik,,BRH
+14HS92F04,M,Amartya Pani,,BRH
+14HS92P01,M,Koushik Chowdhury,,BRH
+14HS92R01,M,Ashis Kumar Pradhan,,BRH
+14HS92R03,M,Neeraj Gupta,,BRH
+14HS92R06,M,Muhammed Najeeb K. K.,,BRH
+14HS92S01,M,Panna Lall,,BRH
+14HS92S03,M,Atul Aman,,BCR
+14ID90J01,M,Annam Sai Kiran,,BRH
+14ID90J02,M,Sunny Bansal,,BRH
+14IE10001,M,Ajit Kumar Bharti,,RKH
+14IE10002,M,Anurag Sharma,,NHR
+14IE10004,M,Banoth Ravinder,,MSH
+14IE10005,M,Bodhale Pratish,,RPH
+14IE10006,F,Boga Sravani,,MTH
+14IE10007,F,Bolli Sri Keerthi,,MTH
+14IE10008,M,Buyakar Hriday,,RPH
+14IE10009,M,Chintan Vatsa,,RKH
+14IE10010,F,Dasari Usha,,MTH
+14IE10011,M,Dayesh Kumar,,AZD
+14IE10012,M,Gourav Datta,,RPH
+14IE10013,M,Himanshu Chaudhary,,AZD
+14IE10014,M,Jaspreet Singh Ghatrora,,AZD
+14IE10015,F,Kethavath Priyanka,,MTH
+14IE10016,F,Kolli Krishna Veni,,MTH
+14IE10017,F,Kondapalli Nikitha,,SN/IG
+14IE10018,M,Kukatla Ram Babu,,AZD
+14IE10019,M,Mayank Kalotia,,NHR
+14IE10020,M,Murala Dayakiran,,NHR
+14IE10021,M,Nikhil Vijay Naik,,VSH
+14IE10022,F,Nishma Sreeramoju,,MTH
+14IE10024,M,Rohit Sinha,,PAT
+14IE10026,M,Sanmitra Banerjee,,VSH
+14IE10027,M,Sayantan Sarkar,,AZD
+14IE10028,M,Shashwat Gupta,,RKH
+14IE10029,M,Supratik Patra,,LBS
+14IE10030,F,Tania Mondal,,SN/IG
+14IE10031,M,V Hari Krishna,,RKH
+14IE10032,M,Writobroto Naharoy,,VSH
+14IE10033,M,Shyama Agrawal,,RPH
+14IE10034,M,Tushar Kant Deo,,RPH
+14IM10001,M,Maurya Pankaj Kanta,,PAT
+14IM10002,M,Akash Toshan,,RKH
+14IM10003,M,Amgoth Atul Pawar,,MSH
+14IM10004,M,Amlendu Bajpai,,MSH
+14IM10005,F,Bussa Venkata Sai Nikhitha,,MTH
+14IM10006,M,Chincholkar Gangaprasad Vithalrao,,MSH
+14IM10007,M,Dheeraj Kumar Kushwaha,,NHR
+14IM10008,M,Gigyasu Jain,,PAT
+14IM10009,M,Harendra Jyani,,PAT
+14IM10010,M,Kagitha Jagadeesh,,MSH
+14IM10011,M,Kuntal Das,,LBS
+14IM10014,M,Pulapakura Sravan,,AZD
+14IM10015,M,Raushan Kumar,,AZD
+14IM10016,M,Rohan Chaturvedi,,NHR
+14IM10017,M,Rohan Shankar Srivastava,,RPH
+14IM10018,M,Rohan Sharan,,AZD
+14IM10019,M,Sagar Gupta,,LLR
+14IM10022,M,Shivam Sharma,,RKH
+14IM10023,M,Shubham Kumar,,AZD
+14IM10024,M,Sita Ram Saini,,LLR
+14IM10025,F,Sonal Priya,,SN/IG
+14IM10027,M,Subhajit Mondal,,PAT
+14IM10028,M,Suprabhat Tripathi,,AZD
+14IM10029,M,Utkarsh Sinha,,HJB
+14IM10030,M,Vikash Kumar,,AZD
+14IM30001,M,Agarwal Rishabh Neeraj,,AZD
+14IM30002,M,Amit Kishore,,RPH
+14IM30003,M,Aniruddh Rawat,,AZD
+14IM30004,M,Ashandeep Singh Sekhon,,LLR
+14IM30005,M,Deo Varun Shrikant,,RKH
+14IM30006,M,Jarugu Sree Vishnu,,RPH
+14IM30008,M,Koppula Ajay Sree,,LLR
+14IM30009,M,Lomada Nagendra Sai,,RPH
+14IM30010,M,Mayukh Saha,,MSH
+14IM30011,M,Meshram Dhiraj Prakash,,MSH
+14IM30012,F,Prachi,,SN/IG
+14IM30013,M,Roopendra Singh Rajput,,MSH
+14IM30014,M,Sandeep Mondal,,RPH
+14IM30015,F,Sangaraju Srividhya,,MTH
+14IM30016,M,Sarthak Madaan,,RPH
+14IM30017,M,Shaik Khamaruddin,,RPH
+14IM30018,M,Sharad Kumar Saini,,AZD
+14IM30020,M,Siddharth Sreenivasan Putuvely,,RPH
+14IM30021,M,Suvo Gaine,,RPH
+14IM30022,M,V J Amarnath,,LBS
+14IM3FP12,F,Shweta Gupta,,SN/IG
+14IM91R02,M,Arun Kumar Biswal,,BRH
+14IM91R03,M,Sobhan Sarkar,,BRH
+14IM92R01,M,Mogale Dnyaneshwar Gangadhar,,BRH
+14IM92R02,M,Sayan Chakraborty,,BRH
+14IM92R03,M,Rishabh Rathore,,BRH
+14IP60001,F,Shikha Priyadarshini,,GKH
+14IP60002,M,Meghnad Bandyopadhyay,,BRH
+14IP60003,M,Vikram Jeet Singh,,BRH
+14IP60005,M,Jaya Ganesan R,,BRH
+14IP60006,M,Vignesh Singh,,BRH
+14IP60007,M,Samrat Ganguly,,BRH
+14IP60008,M,Sharath Narayan Nambiar,,BRH
+14IP60009,F,Richa Bhargava,,GKH
+14IP60010,F,Chaitra L,,GKH
+14IP60011,M,Trisom Sahu,,BRH
+14IP60012,M,Debashish Dash,,BRH
+14IP60014,M,Sandeep Kumar Verma,,BRH
+14IP60016,F,Ayushi Gupta,,GKH
+14IP60017,M,Sudhanshu Shekhar,,BRH
+14IP60018,F,Swetha R,,GKH
+14IP60019,M,Sudip Patra,,BRH
+14IP60020,M,Avanish Kumar Singh,,BRH
+14IP60021,M,Akshay Mittal,,BRH
+14IP60022,M,Pankaj Tyagi,,BRH
+14IP60023,F,Ankita Hore,,GKH
+14IP60024,M,Abhishek Chansoria,,BRH
+14IP60025,M,Pulkit Popli,,BRH
+14IP60026,M,Sarthak Tripathy,,BRH
+14IP60028,M,Aditya Kumar Jha,,BRH
+14IP60029,F,Anjana Dev Roy,,GKH
+14IP60030,F,Megha Guruprasad,,GKH
+14IP60031,M,Vinamra Shukla,,BRH
+14IP60032,M,Anupam,,BRH
+14IP60033,M,Rajeev Ranjan Kumar,,BRH
+14IP60034,F,Nirupama Buddha,,GKH
+14IP60035,M,Jnana Teja Bandi,,BRH
+14IP60036,F,Prachi Sharma,,GKH
+14IP60037,M,Md Firdous Haideri,,BRH
+14IP60038,M,Vidit Choubey,,BRH
+14IP60040,M,Sandeep Kumar Mohanty,,BRH
+14IP60041,M,Shashwat Parihar,,BRH
+14IP60042,M,Vivek Kumar Gupta,,BRH
+14IP60043,F,Prigya Arora,,GKH
+14IP91R01,M,Chandrika Mehta,,BRH
+14IP92R02,M,Utpal Kumar Raha,,BRH
+14IP92R03,M,Bhabani Sonowal,,BRH
+14IT91Q02,M,John C. John,,BRH
+14IT92F01,M,Rajesh Basak,,BRH
+14IT92P07,M,Ayan Mondal,,BRH
+14MA20001,F,Banoth Mounika,,MTH
+14MA20002,M,Soumyanil Jana,,LBS
+14MA20003,M,Aakash Singh,,MSH
+14MA20004,M,Ajay Kumar,,RPH
+14MA20005,M,Aman Beniwal,,MSH
+14MA20006,M,Anant Krishnan K,,MSH
+14MA20007,M,Ankit Kumar,,RKH
+14MA20008,M,Araveti Bhanu Chandraprasad,,MSH
+14MA20009,M,Arnab Bir,,RPH
+14MA20010,M,Badole Abhijeet Milind,,NHR
+14MA20012,M,Bingi Ravi Teja,,RPH
+14MA20013,M,Gulshan Kumar,,LBS
+14MA20014,M,Himanshu Mishra,,LLR
+14MA20015,M,Kolisetty Hema Chandra,,MSH
+14MA20017,M,Kshitij Saraogi,,AZD
+14MA20018,M,Mohit Pokharna,,RKH
+14MA20019,M,Mohit Verma,,NHR
+14MA20020,M,Navneet Priyadarshi,,NHR
+14MA20021,M,Nishant Nikhil,,AZD
+14MA20022,F,Pallavi Das,,SN/IG
+14MA20023,M,Prabhakar Kumar,,RKH
+14MA20024,M,Prateek Gupta,,AZD
+14MA20025,M,Priyam Singh,,HJB
+14MA20026,M,Rahul Mishra,,AZD
+14MA20027,M,Rajat Kumar Agrawal,,AZD
+14MA20028,M,Ramineni Venkata Harsha,,MSH
+14MA20029,M,Ramit Pahwa,,RKH
+14MA20030,M,Rounak Agrawal,,AZD
+14MA20031,M,Sachin Singh Rathore,,RPH
+14MA20032,M,Sampad Kumar Saha,,MSH
+14MA20033,M,Sandeep Kumar,,PAT
+14MA20034,M,Saugata Paul,,MSH
+14MA20035,M,Sawai Manoj Arun,,RPH
+14MA20036,M,Sharma Himanshu Prem,,PAT
+14MA20037,M,Shaurya Airi,,MSH
+14MA20039,M,Shubham Patidar,,LBS
+14MA20041,M,Sonagra Sumit Nandkishor,,VSH
+14MA20042,M,Sourav Sinha,,RPH
+14MA20043,M,Subham Tibra,,AZD
+14MA20044,M,Sumit Tiwari,,VSH
+14MA20045,M,Sunil P,,RKH
+14MA20046,M,Vaibhav Dudeja,,NHR
+14MA20047,M,Vinay Chandil,,RKH
+14MA20048,M,Vividh Kumar,,RKH
+14MA20049,M,Vysyaraju Nayan Raju,,MSH
+14MA20050,M,Walke Ashay Amarnath,,MSH
+14MA20051,M,Yajuvendra Singh,,PAT
+14MA20052,M,Yesankar Pratik Gautam,,AZD
+14MA20053,M,Harsh Bajaj,,RKH
+14MA20054,M,Sourish Ghosh,,LBS
+14MA20055,M,Boob Aaditya Sanjay,,AZD
+14MA20056,M,Rahul Barnwal,,RKH
+14MA20057,M,Shivam Agarwal,,MSH
+14MA40020,M,Bubai Manna,,MMH
+14MA40020,M,Bubai Manna,,MMH
+14MA90J01,M,Sirsendu Sekhar Barman,,BRH
+14MA90J02,F,Seema Kumari,,RLB
+14MA90J02,F,Seema Kumari,,RLB
+14MA90J03,F,Priyanka Roy,,RLB
+14MA90J03,F,Priyanka Roy,,RLB
+14MA90J04,F,Firdoshi Parveen,,RLB
+14MA90J04,F,Firdoshi Parveen,,RLB
+14MA90J05,M,Arnab Patra,,BCR
+14MA90J08,M,Minhajul,,BCR
+14MA90J09,M,Meraj Alam,,BCR
+14MA90J10,M,Prakash Kumar,,BCR
+14MA90J11,M,Rudrajit Sadhu,,BCR
+14MA90J12,M,Falguni Roy,,BCR
+14MA90J13,F,Madhurima Datta,,RLB
+14MA90J13,F,Madhurima Datta,,RLB
+14MA90J14,M,Manotosh Kumbhakar,,BCR
+14MA90J15,F,Najnin Islam,,RLB
+14MA90J15,F,Najnin Islam,,RLB
+14MA90J16,M,Sourav Gupta,,BCR
+14MA91R01,M,Milton Biswas,,BRH
+14MA91R02,M,Sandipan Dutta,,BCR
+14MA92F01,M,Dipankar Kundu,,BRH
+14MA92F04,M,Suman Rakshit,,BRH
+14MA92F05,M,Nirmoy Kumar Das,,BRH
+14MA92F06,M,Abhimanyu Kumar,,BRH
+14MA92F07,M,Sanjay Kumar Mahto,,BRH
+14MA92R01,M,Souvik Kundu,,BRH
+14MA92R02,F,Sueet Millon Sahoo,,RLB
+14MA92R02,F,Sueet Millon Sahoo,,RLB
+14ME10001,M,Abhinav Shresth,,RPH
+14ME10002,F,Akshita Sahni,,SN/IG
+14ME10003,M,Aman Anand,,LLR
+14ME10004,M,Ambadipudi Tarak Sai Ganesh,,RKH
+14ME10005,M,Amit Kumar Pandey,,PAT
+14ME10006,M,Amit Nagar,,PAT
+14ME10007,M,Amit Sikarwar,,AZD
+14ME10008,M,Anjum Shareef,,AZD
+14ME10009,M,Anshit Singh,,RPH
+14ME10010,M,Arkapravo Saha,,RKH
+14ME10013,M,Atul Kumar Gupta,,RPH
+14ME10014,M,Ayush Kumar Burnwal,,PAT
+14ME10016,M,Bharat Bhagya Vidhata,,VSH
+14ME10017,M,Bheemireddy Sai Prudhvi,,AZD
+14ME10018,M,Bhise Aashay Anil,,RPH
+14ME10019,M,Binod Kumar Tudu,,PAT
+14ME10021,M,Bongarala Manohar,,RKH
+14ME10022,M,Chaudhari Dhiraj Keshavrao,,RPH
+14ME10023,M,Dasari Sai Teja,,AZD
+14ME10024,M,Dusad Akshay Manoj,,MSH
+14ME10025,M,Ginuga Venkata Bharadwaj Reddy,,RKH
+14ME10026,M,Gyanu Singh,,MSH
+14ME10027,M,Himanshu Dongre,,MSH
+14ME10028,M,J Darvin Sai Teja,,MSH
+14ME10029,M,K Pareen Jain,,RPH
+14ME10030,M,Kanse Kshiteej,,MSH
+14ME10031,M,Karan Bharti,,AZD
+14ME10032,M,Kuldeep Kumar,,RKH
+14ME10035,M,Madiga Suresh Kumar,,VSH
+14ME10036,M,Narkhede Kunal Sanjay,,RPH
+14ME10037,M,Nikhil Khatedi,,AZD
+14ME10038,M,Nitesh Kumar,,HJB
+14ME10039,M,Nookala Venkata Prabhakara Sarath,,NHR
+14ME10040,M,Oguri Bala Rama Krishna,,RKH
+14ME10041,M,Paras Tehria,,RPH
+14ME10042,M,Prasanna Rajendra Dange,,RKH
+14ME10043,M,Prateek Singh Kushwah,,RPH
+14ME10045,M,Ravada Satya Srinivas,,NHR
+14ME10046,M,Ravi Gupta,,MSH
+14ME10047,M,Ravinder Kant Gupta,,AZD
+14ME10048,M,Ravish Ranjan,,RKH
+14ME10050,M,Sachin Meena,,RKH
+14ME10052,M,Shah Rohan Jayesh Bhai,,VSH
+14ME10053,M,Sourav Choudhary,,RKH
+14ME10054,M,Sreyansh Kumhar Jain,,RPH
+14ME10055,M,Subodh Rai,,RPH
+14ME10056,M,Sugali Saran,,LLR
+14ME10057,M,Sumansh Sharaf,,RKH
+14ME10058,M,Sumit Singh,,RKH
+14ME10059,M,Sunku Sai Sastha Raj,,RPH
+14ME10060,M,Tatipamula Akhil Kumar,,RKH
+14ME10061,M,U Nandeesh,,AZD
+14ME10062,M,Varun A B,,RPH
+14ME10063,M,Vemulapalli Sri Sai Teja,,LBS
+14ME10064,M,Vishwajit Ekka,,RKH
+14ME10065,M,Vivek Jacob Mathai,,NHR
+14ME10066,M,Vivek Singh,,AZD
+14ME10067,M,Vuppala Somraj,,AZD
+14ME10068,M,Sumit Das,,AZD
+14ME10069,M,Ashank Kumar,,LLR
+14ME10070,M,Ayush Gupta,,PAT
+14ME10071,M,Pranshu Agrawal,,AZD
+14ME10072,F,K Shwetha,,SN/IG
+14ME10073,M,Rahul Goel,,AZD
+14ME10074,M,Shashwat Singh,,RPH
+14ME10075,M,Soumava  Ghosh,,LLR
+14ME10076,M,Perumal Reddy Akhil,,LBS
+14ME10077,M,Shreedhar Sahoo,,RPH
+14ME10078,M,Shubham Dhal,,RKH
+14ME10079,M,Debjyoti Chakrabarty,,AZD
+14ME10080,M,Deepak Singh,,RKH
+14ME10081,M,Sakil Ahmad,,RPH
+14ME30001,M,Abhishek Anand,,MSH
+14ME30002,M,Aditya Bansal,,RKH
+14ME30003,M,Agrawal Shubh Mohan,,LLR
+14ME30004,M,Aher Sumeet Milind,,RPH
+14ME30005,M,Aman S Batra,,MSH
+14ME30006,M,Arghyadeep Paul,,PAT
+14ME30007,M,Arun Chauhan,,RPH
+14ME30008,M,Arvind Kumar Sharma,,VSH
+14ME30009,M,Asheesh Anand,,RPH
+14ME30010,M,Ayachitula Phani Santosh,,AZD
+14ME30011,M,Badawath Raj Kumar,,AZD
+14ME30013,M,Danawe Hrishikesh Gajanan,,LBS
+14ME30014,M,Deepanshu Kaurav,,LBS
+14ME30015,M,Dhritiman Haldar,,AZD
+14ME30016,M,Dipanjan Sarkar,,MSH
+14ME30017,F,Dipika Agrahari,,MTH
+14ME30018,M,Garikapati Naga Siva Sankar,,RPH
+14ME30019,M,Gubbala Sai Chand,,RPH
+14ME30020,M,Joshi Nikhil Vinayak,,RPH
+14ME30021,M,K.Athitya,,LBS
+14ME30022,M,Katragadda Ajith Jayasimha,,MSH
+14ME30023,M,Kaustubh Girish Naik,,PAT
+14ME30024,M,Konathala Jawahar,,LLR
+14ME30025,M,Kshitij Gaurav Verma,,RPH
+14ME30026,M,Manoj Jhajharia,,PAT
+14ME30027,M,Manoj Shikhar,,AZD
+14ME30028,M,Nilesh Paliwal,,RKH
+14ME30029,M,Parupudi V S Raghu Ram Kishore,,AZD
+14ME30030,M,Patil Amit Sanjay,,PAT
+14ME30031,M,Praveen Kumar,,HJB
+14ME30032,M,Reetesh Nimje,,MSH
+14ME30033,M,Rishu Kumar Mandal,,NHR
+14ME30034,M,Rokkala Anand,,LBS
+14ME30035,M,Sagar Kumar Das,,MSH
+14ME30036,M,Sagar Saren,,VSH
+14ME30037,M,Saurabh Yadav,,RKH
+14ME30038,M,Soham Saha,,RKH
+14ME30039,M,Sourav Bansal,,NHR
+14ME30040,M,Sourav Chattaraj,,VSH
+14ME30041,M,Subrata Das,,NHR
+14ME30042,M,Utkarsh Raj,,RKH
+14ME30043,M,V S N Reddy Janga,,RPH
+14ME30044,M,Vineet Malik,,RPH
+14ME30045,M,Vishnu Ajayakumar Nair,,RPH
+14ME30046,M,Vraj Mrudang Parikh,,MSH
+14ME30047,M,Vyas Shashank Dhananjay,,LBS
+14ME30048,M,Yuvraj Anand,,NHR
+14ME30049,M,Raghav Srivastava,,PAT
+14ME30050,M,Hrishyank Shetty,,LBS
+14ME30051,M,Patel Purav Shaileshbhai,,RPH
+14ME30052,M,Yogesh Kumar S,,LBS
+14ME30053,M,Girhe Sanket Dadasaheb,,LBS
+14ME90J01,M,Soham Roychowdhury,,BRH
+14ME90J02,M,Shubhadeep Mandal,,BRH
+14ME91R01,M,Amit Choudhary,,BRH
+14ME91R02,M,Rajib Chakraborty,,BRH
+14ME91R03,M,Sayan Das,,BRH
+14ME91R05,M,Akash Shrivastava,,BRH
+14ME91R06,M,Jacob Koshy Mulamootil,,BRH
+14ME91R08,M,Subhashis Sit,,BCR
+14ME91R09,M,Raju Prasad Mahto,,BRH
+14ME91R10,M,Dillip Kumar Panigrahi,,BRH
+14ME91R11,M,Bablu Kumar Jha,,BRH
+14ME91R12,M,Dhanendra Dewangan,,BRH
+14ME91R13,M,Sayan Sadhu,,BCR
+14ME91R14,M,Viplove Ranjan Ganguly,,BRH
+14ME91R15,M,Dibyendu Konar,,BRH
+14ME91R16,M,Ambardekar Vibhav Shriram Shruti,,BRH
+14ME91R18,M,Mrinmoy Dhar,,BCR
+14ME92R01,M,Shamik Basak,,BRH
+14ME92R02,M,Sankha Shuvra Das,,BRH
+14ME92R03,M,Soumya Ranjan Sahoo,,BRH
+14ME92R04,M,Sanjeet Kumar Singh,,BRH
+14ME92R05,M,Ganesh M,,BRH
+14ME92R06,M,Anand Kumar Agrawal,,BRH
+14ME92R07,M,Sagar Sarkar,,BRH
+14ME92R08,M,Baidehish Sahoo,,BRH
+14MF10001,M,Aditya Paul,,AZD
+14MF10002,M,Afzal Jawed Ahmed,,AZD
+14MF10003,M,Akhil Dindigala,,RPH
+14MF10004,M,Barla Harshavardhan,,LBS
+14MF10005,M,Chetan,,PAT
+14MF10006,M,Chintada Harshawardan,,RKH
+14MF10007,M,Chirikuri Kishore,,RPH
+14MF10008,M,Gaurav Sahu,,AZD
+14MF10009,M,Gopal Krishna,,MSH
+14MF10010,M,Gunturu Venkata Ramana,,RKH
+14MF10011,M,Jonnalagadda Naga Vamsi Krishna,,RPH
+14MF10012,M,K Pranai Kumar,,MSH
+14MF10013,M,Kedia Dhairya Narendra,,RPH
+14MF10014,M,Kumar Shivam,,RKH
+14MF10015,M,Mohit Bhatter,,PAT
+14MF10016,M,Moturu Aditya,,NHR
+14MF10017,M,Damle Nikhil Pradeep,,RKH
+14MF10020,M,Samyak Shreyash,,NHR
+14MF10022,M,Shrey Banka,,AZD
+14MF10025,F,Silla Spandana,,SN/IG
+14MF10026,F,Soumya Dubey,,SN/IG
+14MF10027,M,Sourav Chel,,AZD
+14MF10028,M,Thota Pavan,,LLR
+14MF10029,M,Tonduri Aravind Swamy,,RKH
+14MF10030,M,Anil Satish Chandra Kusumbiwal,,NHR
+14MF3IM01,M,Abhineet Chute,,MSH
+14MF3IM03,M,Devendra Kumar Narera,,PAT
+14MF3IM05,M,Ishan Bangia,,RPH
+14MF3IM06,M,Kevin Harshad Banker,,MSH
+14MF3IM07,M,Manpreet Dash,,AZD
+14MF3IM08,M,Partha Sarathi Mishra,,VSH
+14MF3IM10,M,Praveen P R,,MSH
+14MF3IM11,M,Pritam Mondal,,VSH
+14MF3IM12,M,Rahul Mandrai,,RPH
+14MF3IM13,M,Rohit Jain,,RPH
+14MF3IM14,M,Rohyth M,,LBS
+14MF3IM15,M,Yadav Shyam Ramashankar,,RPH
+14MI10001,M,Abhishek Kumar,,LBS
+14MI10002,M,Abhishek Ranjan,,LBS
+14MI10004,M,Ajeet Singh,,RPH
+14MI10006,M,Anish Kumar Tiwari,,LBS
+14MI10007,M,Ashutosh Kumar,,RKH
+14MI10008,M,Avinash Thakur,,AZD
+14MI10009,M,Bhagat Nikhil Narayan,,AZD
+14MI10010,M,Billa Rakesh,,AZD
+14MI10011,M,Chandak Shubham Suresh,,RPH
+14MI10012,M,Dinesh Kumar,,AZD
+14MI10015,M,Kartavya Vijay Bhagat,,RKH
+14MI10016,M,Kumar Ankit,,AZD
+14MI10019,M,Mayank Singh,,LLR
+14MI10020,M,Naman Kumar,,RKH
+14MI10021,M,Nishant Kumar,,AZD
+14MI10022,M,Pramod Kumar Singh,,LBS
+14MI10023,M,Prince Sahu,,MSH
+14MI10025,M,Rahul Gayen,,NHR
+14MI10026,M,Raman,,RPH
+14MI10028,M,Rituj Patel,,AZD
+14MI10029,M,Sachin Kumar,,RPH
+14MI10030,M,Sandip Mondal,,RKH
+14MI10031,M,Sangani Aakash,,RPH
+14MI10032,M,Shreyansh Gupta,,LBS
+14MI10033,M,Shubham Singh,,NHR
+14MI10035,M,Sunil Kumar Kanwar,,VSH
+14MI10036,M,Suresh Gandhi,,RPH
+14MI10037,M,Tarun Kumar Pilania,,RPH
+14MI31001,M,Abhishek Abhay Singh,,NHR
+14MI31003,M,Awandkar Prasad Shridhar,,RPH
+14MI31004,M,Gudipudi Raghu Vamsi Sai Krishna,,RPH
+14MI31005,M,Gugulothu Surya,,PAT
+14MI31006,M,Harsh Kumar Sharan,,RPH
+14MI31007,M,Himanshu Rohela,,RPH
+14MI31008,M,Kaligana Yaswanth,,AZD
+14MI31010,M,Karan Garg,,RPH
+14MI31011,M,Mayank Srivastava,,LBS
+14MI31012,M,Neeraj Giri,,MSH
+14MI31013,M,Nitin Kumar,,AZD
+14MI31014,M,Poola Venkata Naga Sai Kartheek,,MSH
+14MI31015,M,Prakhar Prashant,,RPH
+14MI31016,M,Ravi Prakash,,RPH
+14MI31018,M,Shwetank Aryan,,AZD
+14MI31019,M,Sushant Kumar,,LLR
+14MI31020,M,Suvrajyoti Samaddar,,NHR
+14MI33001,M,Abdullah Javed Nesar,,AZD
+14MI33002,M,Abhishek Sinku,,PAT
+14MI33003,M,Aditya Fageria,,RPH
+14MI33004,M,Akhil Jishnu P,,MSH
+14MI33006,M,Anmaya Naik,,RPH
+14MI33007,M,Ayush Gurjar,,PAT
+14MI33008,M,Godavarthi Sai Durga Prasad,,RPH
+14MI33010,M,Manish Jajoo,,AZD
+14MI33011,M,Nimishakavi Naga Venkata Siva Praneeth,,RPH
+14MI33012,M,Pawar Milind Ganesh,,PAT
+14MI33013,M,Peddireddy Adi Narayana Murthy,,RPH
+14MI33015,M,Shubham Sharma,,LLR
+14MI33016,M,Sumedh Wasnik,,LBS
+14MI33017,M,Udit Naval,,NHR
+14MI33018,M,Vivek Garg,,AZD
+14MI3FP01,M,Aditya Garg,,MSH
+14MI91E01,M,Sujeet Bharti,,BRH
+14MI91R01,M,Amrites Senapati,,BRH
+14MI91R02,M,Tanmoy Hazra,,BRH
+14MI91R03,M,Modi Jemishkumar Vijaykumar,,BRH
+14MI91R04,M,Shashank Shekhar Pathak,,BRH
+14MI91R05,M,Sayantan Chakraborty,,BRH
+14MI91R06,M,Abhik Maiti,,BRH
+14MI91R07,M,Debkumar Mandal,,BRH
+14MI91R08,M,Kunal Kishor Chandan,,BRH
+14MI92R03,M,Satya Prakash Sahu,,BRH
+14MI92R04,M,Rohan Bisai,,BRH
+14MI92R05,M,Arka Jyoti Das,,BRH
+14MM60002,M,Sandip Paul,,BRH
+14MM60003,M,Souptik Basu,,BRH
+14MM60005,M,Bakki Shailendra Kumar,,BRH
+14MM60008,M,Bijay Kumar Dhal,,BRH
+14MM60010,M,Tadavi Firoj Ibrahim,,BRH
+14MM60011,M,Suriya Selvarajan,,BRH
+14MM60012,M,Abhijit Lincon,,BRH
+14MM60013,M,Victor Pakira,,BRH
+14MM60014,M,Tushar Ranjan Hota,,BRH
+14MM91R01,M,Harpreet Singh Pawar,,BRH
+14MM91R05,F,Nimmy K Francis,,GKH
+14MM91R06,M,Sudipta Ghosh,,BRH
+14MM91R08,M,Niladri  Garai,,BRH
+14MM91R09,M,Subhayan Das,,BRH
+14MM91R11,M,Biswajoy Ghosh,,BRH
+14MM91R12,M,Tushar Dilip Mungle,,BRH
+14MM91S01,M,Nabam Peter,,BRH
+14MM92F01,M,Bikash Chandra Jena,,BRH
+14MM92R01,M,Debdeep Sikdar,,BCR
+14MM92R02,M,Apoorva Singh,,BRH
+14MS60R07,M,Surendra Jangu,,MMH
+14MS60R07,M,Surendra Jangu,,MMH
+14MS90J01,M,Mainul Akhtar,,BRH
+14MS90J03,M,Anaparthi Ganesh Kumar,,BCR
+14MS91F01,M,Biswajit Pal,,BRH
+14MS91F03,M,Sarbaranjan Paria,,BRH
+14MS91R01,F,Lopamudra Halder,,RLB
+14MS91R01,F,Lopamudra Halder,,RLB
+14MS91R02,M,Sanjeev Kumar Sharma,,BRH
+14MS91R03,M,Anirban Maitra,,BRH
+14MT10001,M,Abhishek Kumar,,RPH
+14MT10002,M,Abinash Senapati,,LLR
+14MT10003,M,Ajay Kumar Thakur,,RKH
+14MT10004,M,Akash P,,RPH
+14MT10005,M,Ananjan Bhattacharyya,,LBS
+14MT10006,M,Anish Raj Anand,,LLR
+14MT10007,M,Ashish Vineet,,MSH
+14MT10008,M,Avnish Ranjak,,AZD
+14MT10009,M,Ayush Gautam,,RKH
+14MT10010,M,Bobde Aniket Anant,,LBS
+14MT10011,M,Debaditya Sengupta,,RPH
+14MT10012,M,Debanjan Nayak,,RKH
+14MT10014,M,Dyutiman Barman,,AZD
+14MT10015,M,Gaurav Kumar,,RPH
+14MT10016,F,Gulhane Abhilasha Arun,,SN/IG
+14MT10017,M,Gunjan Sengupta,,LLR
+14MT10018,M,Harshit Agarwal,,MSH
+14MT10019,M,Hemanth Nalla,,PAT
+14MT10020,M,J Rama Raju,,LBS
+14MT10021,M,Md Aquib Habib,,RKH
+14MT10022,F,Megha Kumari,,SN/IG
+14MT10023,M,Morankar Swapnil Kishor,,RKH
+14MT10024,M,Mridul Ajit Kothari,,VSH
+14MT10025,M,Nethala Vamsi,,RPH
+14MT10026,M,Nihal Kumar Gupta,,RKH
+14MT10027,M,Nikhil Swaraj,,RKH
+14MT10028,M,Nitesh Kumar,,RKH
+14MT10030,F,Priya Akshay Mehta,,SN/IG
+14MT10032,M,S Kshiteesh,,AZD
+14MT10033,M,Sahil Chaddha,,LBS
+14MT10034,M,Samudra Sinha,,RKH
+14MT10035,M,Sarthak Kanodia,,RPH
+14MT10036,M,Sawai Ram,,NHR
+14MT10038,M,Shubham Gupta,,RPH
+14MT10040,F,Shubhangi Bhushan,,SN/IG
+14MT10043,F,Sukro Priyanka Xaxa,,SN/IG
+14MT10044,M,Sumeet Khirwal,,HJB
+14MT30001,M,Abhinav Dhole,,LLR
+14MT30003,M,Amit Kumar Murmu,,RKH
+14MT30004,M,Amit Kumar Ram,,RKH
+14MT30005,M,Anil Kumar Sharma,,VSH
+14MT30007,M,Arafat Dad Khan,,AZD
+14MT30008,F,Charu Mall,,SN/IG
+14MT30009,M,Cheedella Sujith,,LLR
+14MT30010,M,Chitti Sarath Chandu,,RPH
+14MT30011,M,Omkar Gopal Gabhale,,RKH
+14MT30012,M,Ravada Madhu Sai,,RPH
+14MT30013,M,Shivam Kumar,,RKH
+14MT30014,M,Sitaram Sai Rahul,,VSH
+14MT30015,M,Sourav Das,,MSH
+14MT30016,M,Souvik Bhattacharya,,LLR
+14MT30017,F,Sweta Rathi,,SN/IG
+14MT30018,M,Tirugabathina Manish,,RPH
+14MT30021,M,Shubham Bhaskar Annapure,,MSH
+14MT3EP01,M,Prajjwal Jaiswal,,AZD
+14MT3FP03,M,Shubham Singhal,,RKH
+14MT3FP13,M,Souvik Bhowmik,,RKH
+14MT3FP14,F,Apurva Sijaria,,SN/IG
+14MT3FP20,M,Venkatesh  Pai,,RKH
+14MT60R44,M,Manik Mahali,,MMH
+14MT60R44,M,Manik Mahali,,MMH
+14MT91P01,F,Ms. Madakkai Monisha Michael,,RLB
+14MT91P01,F,Ms. Madakkai Monisha Michael,,RLB
+14MT91R01,M,Md Basiruddin Sk,,BCR
+14MT91R02,F,Jamuna Sethi,,RLB
+14MT91R02,F,Jamuna Sethi,,RLB
+14MT91R03,M,Deepak Kumar Satapathy,,BRH
+14MT91R04,M,Arnab Sarkar,,BRH
+14MT91R05,M,Alok Bhadauria,,BRH
+14MT91R06,M,Aakash Rathore,,BRH
+14MT91R07,M,Ashutosh Agrawal,,BRH
+14MT92R01,M,Lakhindra Marandi,,BRH
+14MT92R02,M,Sudeep Kumar Sahoo,,BRH
+14MT92R03,M,Sudipta Kumar Mohapatra,,BRH
+14MT92R04,M,Parijat Pallab Jana,,BRH
+14MT92R05,M,Jeetendra Kumar Singh,,BRH
+14MT92R06,M,Bibhu Prasad Sahu,,BRH
+14MT92R07,M,Soumitra Kumar Dinda,,BCR
+14MT92R08,M,Subhajit Pan,,BRH
+14MT92R09,M,Pranabananda Modak,,BRH
+14MT92R11,M,Ankit Agarwal,,BRH
+14MT92R12,M,Sujith Kumar S,,BRH
+14NA10001,M,Biswamohan Mishra,,RPH
+14NA10002,M,Abhishek Chauhan,,RPH
+14NA10003,M,Abhishek Dahiya,,RPH
+14NA10004,M,Abin Devassia,,MSH
+14NA10005,M,Akhil Gupta,,NHR
+14NA10006,M,Apharande Sankalp Prakash,,LBS
+14NA10012,M,Harshdeep Singh,,MSH
+14NA10014,M,Mohanish Mayank,,LBS
+14NA10015,M,Neeraj U,,RKH
+14NA10016,M,Nistala Sai Venkatesh,,VSH
+14NA10017,M,Palagada Sandeep Rao,,AZD
+14NA10018,M,Pratyush Snehi,,RPH
+14NA10019,M,R Ambarish,,AZD
+14NA10023,M,Saurav Agarwal,,RKH
+14NA10024,M,Shetye Nitish Ajit,,RPH
+14NA10027,F,Srishti Gole,,SN/IG
+14NA10028,M,U Ajith Bhargav,,AZD
+14NA10031,M,Vishal Kumar Gupta,,AZD
+14NA30001,M,Abhinav Attri,,AZD
+14NA30002,M,Abhishek Kumar Naik,,AZD
+14NA30003,M,Amal Jose,,RKH
+14NA30004,M,Amarvind Senin N S,,AZD
+14NA30005,M,Anshuman Panda,,RPH
+14NA30007,F,Arpita Mangal,,SN/IG
+14NA30008,M,Beera Bharath,,VSH
+14NA30009,M,Bhanu Gupta,,AZD
+14NA30013,M,Jayant Singh Jeena,,LLR
+14NA30014,M,Kinga Praveen Kumar,,LLR
+14NA30015,M,Kongara Gowtham,,RPH
+14NA30016,M,Kotana Pavan Kumar,,LLR
+14NA30017,F,Neha Goel,,SN/IG
+14NA30018,M,Panchal Mitul Dinesh,,LBS
+14NA30019,M,Ravi Bhushan Gupta,,LBS
+14NA30020,M,Siddartha Mashetty,,RKH
+14NA30021,M,Sunil Kumar Mohanpuria,,AZD
+14NA30022,M,Supreet Kumar Gupta,,AZD
+14NA3EP02,M,Rishank Kumar,,LBS
+14NA3EP03,M,Vikas Gupta,,VSH
+14NA3EP04,M,Ch Yaswanth Kumar,,LBS
+14NA3FP16,M,Vadlamudi Chaitanya Srinidhi,,RKH
+14NA3FP19,M,Yogesh Kumar,,RPH
+14NA91Q01,M,Amith Gadagi,,BRH
+14NA91R01,M,Subhashis Nandy,,BRH
+14NA91R02,M,Yogesh Verma,,BRH
+14NA91R03,F,Anindita Patra,,RLB
+14NA91R03,F,Anindita Patra,,RLB
+14NA91S01,M,Saripilli Jai Ram,,BRH
+14NA92R01,M,Ravindra Babu Kudupudi,,BRH
+14NA92R02,M,Parvathy K G,,BRH
+14NA92R03,M,Piyush Mohapatra,,BRH
+14NA92R04,M,Parikshit Kundu,,BRH
+14NAPD202,M,Santu Das,,BRH
+14NT91R01,M,Imon Kalyan,,BRH
+14NT91R03,M,Rajesh Kumar R,,BRH
+14NT91R04,F,Poulomi Chakrabarty,,RLB
+14NT91R04,F,Poulomi Chakrabarty,,RLB
+14NT91R05,M,Ravindra Kumar Jha,,BRH
+14NT92R02,M,Vikas Sharma,,BRH
+14PH20001,F,Jayanti Madhei,,MTH
+14PH20004,M,Baibhaw Kumar Singh,,RPH
+14PH20005,F,Bhawana,,MTH
+14PH20006,M,Chinmaya Verma,,NHR
+14PH20008,M,Deepesh Gupta,,LLR
+14PH20009,M,Jangam Viraj Vilas,,AZD
+14PH20010,M,Jigar,,RKH
+14PH20011,M,Keshav R Menon,,MSH
+14PH20012,M,Kondra Tulja Varun,,RPH
+14PH20014,M,Mahendra Panwar,,RKH
+14PH20016,M,Mohit Dhariwal,,RPH
+14PH20017,M,Mohit Kalal,,LBS
+14PH20018,M,Naveen Kumar Mewal,,RPH
+14PH20020,M,Philip Jacob,,AZD
+14PH20021,M,Pradney Waghale,,RKH
+14PH20023,M,Prince Kamboj,,RPH
+14PH20024,M,Prithul Singh,,AZD
+14PH20025,M,Pukhraj Baraskar,,RKH
+14PH20027,M,Rao Suvrat Rajkumar N,,AZD
+14PH20028,M,Ravi Sheoran,,RKH
+14PH20029,F,Revuru Naga Abhigna,,SN/IG
+14PH20030,M,S Aravindh Swaminathan,,MSH
+14PH20031,F,Saloni Priya,,SN/IG
+14PH20032,M,Santanu Mohapatra,,VSH
+14PH20034,F,Sriramoju Pranitha,,MTH
+14PH20036,F,Walke Shweta Vilas,,SN/IG
+14PH40009,M,Robert Wilson Joute,,MMH
+14PH40009,M,Robert Wilson Joute,,MMH
+14PH40016,M,Basudev Sahoo,,MMH
+14PH40016,M,Basudev Sahoo,,MMH
+14PH90J07,M,Ambaresh Sahoo,,BRH
+14PH90J10,M,Abdulla Bin Rahaman,,BCR
+14PH90J11,F,Atri Sarkar,,RLB
+14PH90J11,F,Atri Sarkar,,RLB
+14PH90J12,M,Snehasish Nandy,,BRH
+14PH90J14,M,Suman Mandal,,BCR
+14PH91R03,M,Sandip Das,,BRH
+14PH91R07,M,Satyajit Roy,,BRH
+14PH91R08,M,Gopi Nalla,,BRH
+14PH91R09,F,Archana Kumari,,RLB
+14PH91R09,F,Archana Kumari,,RLB
+14PH91R10,M,Partha Mondal,,BRH
+14PH91R11,F,Suparna Hazra,,RLB
+14PH91R11,F,Suparna Hazra,,RLB
+14PH91R13,F,Triparna Mondal,,RLB
+14PH91R13,F,Triparna Mondal,,RLB
+14PH91R14,M,Debajyoti De,,BRH
+14PH91R15,F,Ruma Maity,,RLB
+14PH91R15,F,Ruma Maity,,RLB
+14PH91R16,M,Debdatta Panigrahi,,BRH
+14PH91R17,F,Vineeta Shukla,,RLB
+14PH91R17,F,Vineeta Shukla,,RLB
+14PH92R01,M,Akash Das,,BRH
+14PH92R02,M,Satyajit Maji,,BRH
+14PH92R03,M,Abhijit Roy,,BRH
+14PH92R04,M,Tarak Nath Maity,,BRH
+14PHPD201,M,Monodeep Chakraborty,,BRH
+14PHPD202,M,Sumedh Vinayak Anathpindika,,BRH
+14QE30001,F,Chithirala Naga Mounika,,MTH
+14QE30002,M,Jamsher Jabbar,,AZD
+14QE30003,M,Om Shree,,PAT
+14QE30004,M,Shubham Choudhary,,NHR
+14QE30005,M,Sukhjinder Singh,,NHR
+14QM30001,M,Abhishek Pandey,,NHR
+14QM30002,F,Ashmita Kolmet,,SN/IG
+14QM30003,M,Ekade Ashutosh Balasaheb,,RPH
+14QM30004,M,Mehul Dasgupta,,RKH
+14QM30005,M,Nihal Kakodkar,,NHR
+14QM30006,M,Numan Ejaz,,AZD
+14RE92R01,M,Shabnam Samima,,BRH
+14RE92R02,M,Tauheed Ahmed,,BRH
+14RJ91R01,M,Sindha Jigneshsinh Vikramsinh,,BRH
+14RJ92R01,M,Piyush Kumar Dongre,,BRH
+14RJ92R02,M,Bishnu Pada Bose,,BRH
+14RJ92R04,F,Manali Chatterjee,,RLB
+14RJ92R04,F,Manali Chatterjee,,RLB
+14RJ92R05,M,Manish Chandra,,BRH
+14RJ92R07,M,Aashish Kumar,,BRH
+14RT91Q01,M,Satyajit Samantarai,,BRH
+14RT91R01,M,Sovan Lal Banerjee,,BRH
+14RT91R02,M,Sayan Ganguly,,BRH
+14RT92R03,M,Preetom Sarkar,,BRH
+14RT92S01,M,Girish Suresh Mirchandani,,BRH
+14RT92S02,M,Deepak Sethi,,BRH
+14WM91R01,M,Soumyaranjan Sahoo,,BRH
+14WM91R02,M,Aurobrata Das,,BRH
+14WM91R03,M,Chitaranjan Dalai,,BRH
 15AE10003,M,Akash Goyal,8.02,RKH
 15AE10004,M,Anandu C,5.83,HJB
 15AE10006,M,Anil Kumar,6.59,RPH
