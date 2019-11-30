@@ -77,7 +77,7 @@ class Analyzer(object):
             if len(roll) != 9:
                 pass
             elif roll[:2].isdigit():
-                if int(roll[:2]) >= self._year:
+                if int(roll[:2]) < self._year:
                     valid_rolls.append(roll)
         return valid_rolls
 
