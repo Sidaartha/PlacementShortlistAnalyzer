@@ -3,21 +3,21 @@ Extract rollno from PDFs to display stats.
 
 ## Getting Started
 
-#### Activate virtual environment
+Activate virtual environment
 ```
 . venv/bin/activate
 ```
+Add your friends roll numbers to [friends.txt](friends.txt) to facilitate easy tracking.
 
-#### Run command
+## Usage
+Run command
 ```
 python main.py --file <file_name>
 ```
-Example: 
+Example: Analyze [test.pdf](test.pdf)
 ```
 python main.py --file test.pdf
 ```
-#### Add watch rolls
-Add your friends roll numbers to "friends.txt" for easy tracking.
 
 ## Output
 
