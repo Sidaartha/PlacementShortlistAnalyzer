@@ -1,4 +1,4 @@
-# Placements Analyzer
+# Placement Shortlist Analyzer
 Extract rollno from PDFs to display stats.
 
 ## Getting Started
