@@ -3,7 +3,7 @@ distro==1.4.0
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.0.3
-numpy==1.17.4
+numpy==1.22.0
 pandas==0.24.2
 prettytable==0.7.2
 pyparsing==2.4.5
